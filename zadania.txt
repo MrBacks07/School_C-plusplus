@@ -1,0 +1,447 @@
+Przyk³ad:
+# Online Python - IDE, Editor, Compiler, Interpreter
+
+print("Program liczaczy wyngrodzenie pracownika")
+iloscGodzin = int(input('podaj ilosc godzin'))
+stawka = int(input('podaj stawke'))
+doWyplaty = iloscGodzin * stawka
+print("Zarobi³es -",doWyplaty)
+
+
+Zadanie 1.01: Napisaæ program obliczaj¹cy pole ko³a o podanym przez u¿ytkownika promieniu 
+(Wzór na pole ko³a P=pi*r*r). Uwaga: Wartoœæ PI (3.1415) nale¿y zadeklarowaæ jako sta³¹.
+
+
+Zadanie 1.02: Napisaæ program obliczaj¹cy pole prostok¹ta o podanych przez u¿ytkownika bokach a i b
+ (P=a*b).
+
+
+Zadanie 1.03: Napisaæ program obliczaj¹cy pole trójk¹ta o podanych przez u¿ytkownika: podstawie (a) 
+i wysokoœci (h). P=0.5*a*h.
+
+
+Zadanie 1.04: Napisaæ program obliczaj¹cy pole równoleg³oboku o podanych przez u¿ytkownika
+ przek¹tnych p i q. P=0.5*p*q.
+
+
+Zadanie 1.05: Napisaæ program obliczaj¹cy pole trapezu o podanych przez u¿ytkownika d³ugoœciach podstaw (a i b), oraz wysokoœci (h). P=0.5*(a+b)*h.
+
+
+Zadanie 1.06: Napisaæ program obliczaj¹cy obwód ko³a o podanym przez u¿ytkownika promieniu r. Ob=2*PI*r. Uwaga: PI nale¿y zadeklarowaæ jako sta³¹.
+
+
+Zadanie 1.07: Napisaæ program obliczaj¹cy obwód kwadratu o podanym przez u¿ytkownika boku a. Ob=4*a.
+
+
+Zadanie 1.08: Napisaæ program obliczaj¹cy obwód prostok¹ta o podanych przez u¿ytkownika bokach a i b. Ob=2*a+2*b.
+
+
+
+Zadanie 1.09: Napisaæ program obliczaj¹cy obwód trapezu o podanych przez u¿ytkownika bokach a, b, c i d. Ob=a+b+c+d.
+
+
+Zadanie 1.10: Napisaæ program obliczaj¹cy pole powierzchni kuli o promieniu r. P=4*PI*r*r. Uwaga: PI nale¿y zadeklarowaæ jako sta³¹.
+
+
+
+
+
+Zadanie 2.01: Napisaæ program tablicuj¹cy funkcjê y=A*x^2+B w przedziale od 0.0 do 1.0 co 0.1 dla podanych przez u¿ytkownika wartoœci parametrów A i B.
+
+
+Zadanie 2.02: Napisaæ program obliczaj¹cy sumê S=1+2^2+3^2+...+N^2 dla N podanego przez u¿ytkownika.
+
+
+Zadanie 2.03: Napisaæ program tablicuj¹cy funkcjê y=2.5*x^3-4.8*x^2+1.1 w przedziale podanym przez u¿ytkownika.
+
+
+Zadanie 2.04: Napisaæ program obliczaj¹cy sumê S=S+(1/(2*n-1)) dla n=0 do N (N podane przez u¿ytkownika).
+
+
+Zadanie 2.05: Napisaæ program tablicuj¹cy funkcjê y=A*x^3-B*x w przedziale 1 do 10 co 0.5 dla podanych przez u¿ytkownika wartoœci parametrów A i B.
+
+
+Zadanie 2.06: Napisaæ program obliczaj¹cy sumê S=S+(1/(2*n+1)) dla n=0 do N (N podane przez u¿ytkownika).
+
+
+Zadanie 2.07: Napisaæ program tablicuj¹cy funkcjê y=1.5*x^2-2.2*x+0.4 w przedziale podanym przez u¿ytkownika.
+
+
+Zadanie 2.08: Napisaæ program obliczaj¹cy sumê S=S+(n/(2*n-1)) dla n=0 do N (N podane przez u¿ytkownika).
+
+
+Zadanie 2.09: Napisaæ program licz¹cy sumê S=1+1/2+1/3+...+1/N dla N podanego przez u¿ytkownika.
+
+
+Zadanie 2.10: Napisaæ program licz¹cy silniê z liczby podanej przez u¿ytkownika.
+
+
+Zadanie 2.11: Napisaæ program licz¹cy sumê liczb ca³kowitych 1+2+3+..+N. Dla N podanego przez u¿ytkownika.
+
+
+Zadanie 2.12: Napisaæ program wyœwietlaj¹cy kolejne potêgi liczby 2 tzn. 2^1, 2^2, ..., 2^N, dla N podanego przez u¿ytkownika.
+
+
+Zadanie 2.13: Napisaæ program obliczaj¹cy sumê S=S+(-2)^n dla n=0 do N (N podane przez u¿ytkownika.
+
+
+Zadanie 2.14: Napisaæ program wczytuj¹cy z klawiatury dwie liczby ca³kowite, a nastepnie wyœwietlaj¹cy wiêksz¹ z nich.
+
+
+Zadanie 2.15: Napisaæ program wczytuj¹cy z klawiatury liczbê ca³kowit¹, a nastêpnie wyœwietlaj¹cy informacjê, czy liczba ta jest wiêksza od zera, czy nie.
+
+
+Zadanie 2.16: Napisaæ program wczytuj¹cy z klawiatury liczbê ca³kowit¹, a nastêpnie wyœwietlaj¹cy informacjê, czy liczba ta jest parzysta, czy nie.
+
+
+Zadanie 2.17: Napisaæ program wczytuj¹cy z klawiatury liczbê ca³kowit¹, a nastêpnie wyœwietlaj¹cy informacjê, czy liczba ta jest wiêksza ni¿ 10.
+
+
+Zadanie 2.18: Napisaæ program wczytuj¹cy z klawiatury liczbê rzeczywist¹, a nastêpnie wyœwietlaj¹cy informacjê, czy liczba ta jest dodatnia.
+
+
+Zadanie 2.19: Napisaæ program wczytuj¹cy z klawiatury liczbê ca³kowit¹, a nastêpnie wyœwietlaj¹cy informacjê, czy liczba ta jest podzielna przez 7.
+
+
+Zadanie 2.20: Napisaæ program wczytuj¹cy z klawiatury dwie liczby ca³kowite, a nastepnie wyœwietlaj¹cy mniejsz¹ z nich.
+
+
+Zadanie 2.21: Napisaæ program wczytuj¹cy z klawiatury liczbê ca³kowit¹, a nastêpnie wyœwietlaj¹cy informacjê, czy liczba ta jest wiêksza ni¿ 33.
+
+
+Zadanie 2.22: Napisaæ program wczytuj¹cy z klawiatury liczbê rzeczywist¹, a nastêpnie wyœwietlaj¹cy informacjê, czy liczba ta jest wiêksza od zera i jednoczeœnie mniejsza od 100.
+
+
+Zadanie 2.23: Napisaæ program wczytuj¹cy z klawiatury liczbê ca³kowit¹, a nastêpnie wyœwietlaj¹cy informacjê, czy liczba ta jest mniejsza od zera, czy nie.
+
+
+Zadanie 2.24: Napisaæ program wczytuj¹cy z klawiatury dwie liczby ca³kowite, a nastepnie wyœwietlaj¹cy informacjê, czy liczby te s¹ takie same, czy nie.
+
+
+Zadanie 2.25: Napisaæ program wczytuj¹cy z klawiatury liczbê rzeczywist¹, a nastêpnie wyœwietlaj¹cy informacjê, czy liczba ta jest wiêksza od zera i mniejsza od 10.
+
+
+Zadanie 2.26: Napisaæ program wczytuj¹cy z klawiatury liczbê ca³kowit¹, a nastêpnie wyœwietlaj¹cy informacjê, czy liczba ta jest wiêksza od 100 i jednoczeœnie podzielna przez 10.
+
+
+Zadanie 2.27: Napisaæ program wczytuj¹cy z klawiatury liczbê ca³kowit¹, a nastêpnie wyœwietlaj¹cy informacjê, czy liczba ta jest jednoczeœnie podzielna przez 2 i przez 3.
+
+
+Zadanie 2.28: Napisaæ program wczytuj¹cy z klawiatury liczbê ca³kowit¹, a nastêpnie wyœwietlaj¹cy jej wartoœæ bezwzglêdn¹.
+
+
+Zadanie 2.29: Napisaæ program wczytuj¹cy z klawiatury liczbê ca³kowit¹, a nastêpnie wyœwietlaj¹cy informacjê, czy liczba ta jest mniejsza ni¿ 88.
+
+Zadanie 2.30: Napisaæ program wczytuj¹cy z klawiatury liczbê ca³kowit¹, a nastêpnie wyœwietlaj¹cy 1 je¿eli jest ona wiêksza od zera, -1 je¿eli jest mniejsza od zera, lub 0 – je¿eli jest równa zero.
+
+Zadanie 2.31: Napisaæ program wczytuj¹cy z klawiatury liczbê ca³kowit¹, a nastêpnie wyœwietlaj¹cy informacjê, czy liczba ta jest podzielna przez 3.
+
+Zadanie 2.32: Napisaæ program wczytuj¹cy z klawiatury liczbê ca³kowit¹, a nastêpnie wyœwietlaj¹cy informacjê, czy liczba ta jest mniejsza ni¿ 15.
+
+Zadanie 2.33: Napisaæ program wczytuj¹cy z klawiatury liczbê rzeczywist¹, a nastêpnie wyœwietlaj¹cy jej wartoœæ bezwzglêdn¹.
+
+
+
+Zadanie 2.34 (*): Napisaæ program obliczaj¹cy pierwiastki równania kwadratowego A*x*x+B*x+C dla A,B,C podanego przez u¿ytkownika.
+
+Zadanie 2.35 (*): Napisaæ program obliczaj¹cy N-ty element ci¹gu Fibonacciego.
+
+Zadanie 2.36 (**): Napisaæ program znajduj¹cy pierwiastek równania kwadratowego A*x*x+B*x+C metod¹ bisekcji – u¿ytkownik podaje wspó³czynniki równania A,B,C, pocz¹tkowy przedzia³ x1,x2 oraz oczekiwan¹ dok³adnoœæ.
+
+
+
+
+Zadanie 3.01: Napisaæ program wczytuj¹cy do tablicy 10 liczb typu integer podanych przez u¿ytkownika i wyœwietlaj¹cy ich sredni¹.
+
+
+Zadanie 3.02: Napisaæ program wczytuj¹cy do tablicy 10 liczb typu integer podanych przez u¿ytkownika i wyœwietlaj¹cy najmniejsz¹ i najwieksz¹ z nich.
+
+
+Zadanie 3.03: Napisaæ program wczytuj¹cy do tablicy 10 liczb typu real podanych przez u¿ytkownika i wyœwietlaj¹cy ich œredni¹.
+
+
+Zadanie 3.04: Napisaæ program wczytuj¹cy do tablicy 10 liczb typu real podanych przez u¿ytkownika i wyœwietlaj¹cy najmniejsz¹ i najwieksz¹ z nich.
+
+
+Zadanie 3.05: Napisaæ program wczytuj¹cy do tablicy 10 liczb typu integer podanych przez u¿ytkownika i wyœwietlaj¹cy ich sumê.
+
+
+Zadanie 3.06: Napisaæ program wczytuj¹cy do tablicy 10 liczb typu real podanych przez u¿ytkownika i wyœwietlaj¹cy ich sumê.
+
+
+Zadanie 3.07: Napisaæ program który wype³nia 10-cio elementow¹ tablicê typu integer kolejnymi potêgami liczby 2, a nastêpnie wyœwietla t¹ tablicê na ekran.
+
+
+Zadanie 3.08: Napisaæ program wczytuj¹cy do tablicy 10 liczb typu integer podanych przez u¿ytkownika, sortuj¹cy te liczby rosn¹co, a nastêpnie wyœwietlaj¹cy je na ekran.
+
+
+Zadanie 3.09: Napisaæ program wczytuj¹cy do tablicy 10 liczb typu integer podanych przez u¿ytkownika, sortuj¹cy te liczby malej¹co, a nastêpnie wyœwietlaj¹cy je na ekran.
+
+
+Zadanie 3.10: Napisaæ program wczytuj¹cy do tablicy 10 liczb typu integer podanych przez u¿ytkownika, a nastepnie wyœwietlaj¹cy ile jest wœród nich liczb parzystych i nieparzystych.
+
+
+Zadanie 3.11: Napisaæ program wczytuj¹cy do tablicy 10 liczb typu integer podanych przez u¿ytkownika, a nastepnie wyœwietlaj¹cy ile jest wœród nich liczb dodatnich i ujemnych.
+
+
+Zadanie 3.12: Napisaæ program wczytuj¹cy do tablicy 10 liczb typu integer podanych przez u¿ytkownika, a nastêpnie wyœwietlaj¹cy je w odwrotnej kolejnoœci.
+
+
+Zadanie 3.13: Napisaæ dwuargumentow¹ funkcje która podnosi argument pierwszy do potêgi okreœlonej przez argument drugi. Pierwszy argument ma byc typu real, a drugi integer (za³o¿yæ, ¿e zawsze bêdzie wiêkszy od 0). Funkcja ma zwracaæ wartoœæ typu real.
+
+
+Zadanie 3.14: Napisaæ dwuargumentow¹ funkcje która zwraca wiêkszy z podanych argumentów. Oba argumenty oraz zwracana wartoœæ maj¹ byæ typu integer.
+
+
+Zadanie 3.15: Napisaæ dwuargumentow¹ funkcje która zwraca mniejszy z podanych argumentów. Oba argumenty oraz zwracana wartoœæ maj¹ byæ typu integer.
+
+
+Zadanie 3.16: Napisaæ dwuargumentow¹ procedurê która zamienia wartoœci dwóch argumentów typu integer, tzn. je¿eli argumentami procedury s¹: x1=A i x2=B, to po jej zakoñczeniu powinno byæ x1=B i x2=A.
+
+
+Zadanie 3.17: Napisaæ dwuargumentow¹ funkcjê której argumentami s¹: tablica liczb typu integer, oraz liczba typu integer okreœlaj¹ca rozmiar tablicy. Funkcja ma zwracaæ najwiêksz¹ liczbê znalezion¹ w tablicy.
+
+
+Zadanie 3.18: Napisaæ dwuargumentow¹ funkcjê której argumentami s¹: tablica liczb typu integer, oraz liczba typu integer okreœlaj¹ca rozmiar tablicy. Funkcja ma zwracaæ œredni¹ liczb z tablicy.
+
+
+Zadanie 3.19: Napisaæ dwuargumentow¹ funkcjê której argumentami s¹: tablica liczb typu integer, oraz liczba typu integer okreœlaj¹ca rozmiar tablicy. Funkcja ma zwracaæ iloœæ wyst¹pieñ liczby 2 w tablicy.
+
+
+Zadanie 3.20: Napisaæ jednoargumentow¹ funkcjê (argument typu ca³kowitego) która zwraca 1 je¿eli argument jest liczb¹ pierwsz¹, lub 0 gdy nie jest. Uwaga: liczba pierwsza to liczba podzielna tylko przez 1 i sam¹ siebie.
+
+
+Zadanie 3.21: Napisaæ dwuargumentow¹ procedurê której argumentami s¹: tablica liczb typu integer, oraz liczba typu integer okreœlaj¹ca rozmiar tablicy. Procedura ma sortowaæ tablicê malej¹co.
+
+
+Zadanie 3.22: Napisaæ funkcjê obliczaj¹c¹ rozwi¹zania równania kwadratowego Ax2+Bx+C=0. Argumentami funkcji (typ real) s¹ wspó³czynniki równania (A, B, C), oraz zmienne x1 i x2 poprzez które funkcja zwraca policzone rozwi¹zania. Dodatkowo funkcja powinna zwracaæ liczbê znalezionych rozwi¹zañ (typ ca³kowity). Uwaga: Aby znaleŸæ rozwi¹zania równania kwadratowego nale¿y najpierw obliczyæ deltê=B2-4AC. Je¿eli delta > 0 to x1=(-b-sqrt(delta))/2a, x2=(-b+sqrt(delta))/2a. Je¿eli delta=0 to x1=x2=-b/2a. Je¿eli delta < 0 to równanie nie ma rozwi¹zañ.
+
+
+Zadanie 3.23: Napisaæ dwuargumentow¹ funkcjê (argumenty x,y oraz zwracana wartoœæ s¹ typu real) zwracaj¹c¹ d³ugoœæ wektora (x,y). D³ugoœæ wynosi L=sqrt(x2+y2).
+
+
+Zadanie 3.24: Napisaæ jednoargumentow¹ funkcjê której argumentem jest 3-elementowa tablica typu real. Funkcja ma zwracaæ d³ugoœæ wektora którego wspó³rzêdne zapisane s¹ w tablicy, tzn. Je¿eli w tablicy s¹ liczby A, B i C, to d³ugoœæ wektora wynosi L=sqrt(A2+B2+C2).
+
+
+Zadanie 3.25: Napisaæ 1-argumentow¹ funkcjê przeliczaj¹c¹ temperaturê w skali Fahrenheita na skalê Celsjusza wed³ug wzoru C=(5/9)(F-32). Zarówno argument, jak i zwracana wartoœæ maj¹ byæ typu real.
+
+
+Zadanie 3.26: Napisaæ dwuargumentow¹ procedurê której argumentami s¹: tablica liczb typu integer, oraz liczba typu integer okreœlaj¹ca rozmiar tablicy. Procedura ma zerowaæ wszystkie elementy tablicy bêd¹cej argumentem procedury.
+
+
+Zadanie 3.27: Napisaæ dwuargumentow¹ procedurê której argumentami s¹: tablica liczb typu integer, oraz liczba typu integer okreœlaj¹ca rozmiar tablicy. Procedura ma wczytywaæ z klawiatury liczby ca³kowite i umieszczaæ je w kolejnych elementach tablicy.
+
+
+Zadanie 3.28: Napisaæ dwuargumentow¹ procedurê której argumentami s¹: tablica liczb typu integer, oraz liczba typu integer okreœlaj¹ca rozmiar tablicy. Procedura ma wyœwietlaæ kolejne elementy tablicy na ekran.
+
+
+Zadanie 3.29: Napisaæ 3-argumentow¹ funkcjê której argumentami s¹: tablica liczb typu integer (T), liczba typu integer (N) okreœlaj¹ca rozmiar tablicy, oraz jeszcze jedna liczba ca³kowita (C). Funkcja ma zwracaæ iloœæ wyst¹pieñ liczby C w tablicy.
+
+
+
+Zadanie 3.30 (*): Napisaæ program wyszukuj¹cy liczby pierwsze w zakresie od 1 do 10 000 metod¹ sita Eratostenesa.
+
+
+Zadanie 3.31 (*): Mamy listê 1000 elementów (ponumerowanych od 1 do 1000). Wykreœlamy co siódmy element (tzn. element nr 7, 14 itd.). Po dojœciu do koñca listy kontynuujemy od jej pocz¹tku omijaj¹c elementy ju¿ wykreœlone. Procedurê prowadzimy a¿ zostanie 10 ostanich elementów. Jakie to elementy? Napisaæ program rozwi¹zuj¹cy to zadanie.
+
+
+Zadanie 3.32 (*): Za³ó¿my, ¿e u¿ytkownik zdefiniowa³ dowoln¹ funkcjê jednej zmiennej (zadeklarowan¹ jako double f(double x) ). Napisaæ program licz¹cy ca³kê oznaczon¹ tej funkcji w przedziale podanym przez u¿ytkownika metod¹ trapezów.
+
+
+Zadanie 3.33 (**) UWAGA!! Zadanie dla bardzo odwa¿nych!: Na bezludnej wyspie mieszkaj¹ tylko dwa gatunki zwierz¹t – lisy i zaj¹ce. Liczby zwierz¹t obu gatunków s¹ od siebie zalezne i pozostaj¹ w równowadze. Np. zwiekszenie liczby zajêcy powoduje, ¿e lisy maj¹ wiêcej po¿ywienia i szybciej siê mno¿¹. Wiêcej lisów zjada zaj¹ce, których liczba maleje – tym samym powoduj¹c zmniejszenie iloœci po¿ywienia i spadek populacji lisów. Zachowanie takiego uk³adu opisuj¹ tzw. równania ró¿niczkowe Lotki-Volterry (http://www.personal.psu.edu/auk183/LotkaVolterra/LotkaVolterra1.html). Napisaæ program symuluj¹cy zachowanie siê populacji lisów i zajêcy dla podanych przez u¿ytkownika warunków pocz¹tkowych. Zastosowaæ dowolny algorytm rozwi¹zywania równañ ró¿niczkowych.
+
+
+
+
+
+Zadanie 4.01 Napisaæ 2argumentow¹ funkcjê, której argumentami jest tablica liczb ca³kowitych, oraz liczba ca³kowita okreœlaj¹ca rozmiar tablicy. Funkcja ma zwracaæ sumê elementów w tablicy. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.02 Napisaæ 2argumentow¹ funkcjê, której argumentami jest tablica liczb ca³kowitych, oraz liczba ca³kowita okreœlaj¹ca rozmiar tablicy. Funkcja ma zwracaæ najwiêkszy element w tablicy. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.03 Napisaæ 2argumentow¹ funkcjê, której argumentami jest tablica liczb ca³kowitych, oraz liczba ca³kowita okreœlaj¹ca rozmiar tablicy. Funkcja ma zwracaæ iloœæ wyst¹pieñ liczby 0 w tablicy. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.04 Napisaæ 3argumentow¹ funkcjê, której argumentami jest tablica liczb ca³kowitych, liczba ca³kowita okreœlaj¹ca rozmiar tablicy, oraz liczba ca³kowita x. Funkcja ma zwracaæ iloœæ wyst¹pieñ liczby x w tablicy. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.05 Napisaæ 2argumentow¹ funkcjê, której argumentami jest tablica liczb ca³kowitych, oraz liczba ca³kowita okreœlaj¹ca rozmiar tablicy. Funkcja ma wype³niaæ tablicê kolejnymi potêgami liczby 2. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.06 Napisaæ 2argumentow¹ funkcjê, której argumentami jest tablica liczb ca³kowitych, oraz liczba ca³kowita okreœlaj¹ca rozmiar tablicy. Funkcja ma wyœwietlaæ elementy tablicy w odwrotnej kolejnoœci („od koñca”). Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.07 Napisaæ 2argumentow¹ funkcjê, której argumentami jest tablica liczb ca³kowitych, oraz liczba ca³kowita okreœlaj¹ca rozmiar tablicy. Funkcja ma wype³niaæ tablicê kolejnymi liczbami parzystymi. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.08 Napisaæ 2argumentow¹ funkcjê, której argumentami jest tablica liczb ca³kowitych, oraz liczba ca³kowita okreœlaj¹ca rozmiar tablicy. Funkcja ma zerowaæ wszystkie elementy tablicy. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.09 Napisaæ 2argumentow¹ funkcjê, której argumentami jest tablica liczb ca³kowitych, oraz liczba ca³kowita n okreœlaj¹ca rozmiar tablicy. Funkcja ma pobieraæ od u¿ytkownika (z klawiatury) n liczb ca³kowitych i umieœciæ je w kolejnych komórkach tablicy. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.10 Napisaæ 2argumentow¹ funkcjê, której argumentami jest tablica liczb ca³kowitych, oraz liczba ca³kowita okreœlaj¹ca rozmiar tablicy. Funkcja ma zwracaæ œredni¹ liczb z tablicy. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.11 Napisaæ 4argumentow¹ funkcjê, której argumentami s¹ trzy tablice liczb ca³kowitych reprezentuj¹ce wektory a,b, c, oraz liczba n okreœlaj¹ca rozmiar wektorów. Funkcja ma realizowaæ dodawanie wektorów a i b a wynik umieœciæ w wektorze c (sumê wektorów oblicza siê wed³ug zasady: ity element sumy jest sum¹ itych elementów dodawanych wektorów). Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.12 Napisaæ 2argumentow¹ funkcjê, której argumentami jest tablica liczb ca³kowitych, oraz liczba ca³kowita n okreœlaj¹ca rozmiar tablicy. Funkcja ma odwróciæ kolejnoœæ elementów w tablicy. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.13 Napisaæ 3argumentow¹ funkcjê, której argumentami jest tablica liczb ca³kowitych, liczba ca³kowita okreœlaj¹ca rozmiar tablicy, oraz liczba ca³kowita x. Funkcja ma zwracaæ pozycjê pierwszego wyst¹pienia liczby x w tablicy. Je¿eli x nie wystêpuje w tablicy to funkcja ma zwracaæ 1. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.14 Napisaæ 2argumentow¹ funkcje, której argumentami s¹ tablice a i b reprezentuj¹ce 3wymiarowe wektory. Funkcja ma zwracaæ iloczyn skalarny wektorów a i b. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.15 Napisaæ 4argumentow¹ funkcjê, której argumentami s¹: tablica liczb ca³kowitych a, liczba n okreœlaj¹ca rozmiar tablicy, oraz liczby ca³kowite x i y. Funkcja ma znaleŸæ w tablicy wszystkie wyst¹pienia liczby x i zast¹piæ je liczb¹ y. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.16 (*) Napisaæ 2argumentow¹ funkcjê, której argumentami jest tablica liczb ca³kowitych, oraz liczba ca³kowita okreœlaj¹ca rozmiar tablicy. Funkcja ma sortowaæ rosn¹co liczby w tablicy. Proszê wykorzystaæ algorytm sortowania b¹belkowego. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 4.17 (*) Zaimplementowaæ 4dzia³aniowy kalkulator dzia³aj¹cy w notacji RPN (Odwrotna Notacja Polska). Potrzebny w tej implementacji stos zaimplementowaæ w postaci tablicy.
+
+
+Zadanie 4.18 (**) Napisaæ program szukaj¹cy kwadratów magicznych o zadanym przez u¿ytkownika boku metod¹ przeszukiwania si³owego („brute force”).
+
+
+Zadanie 4.19 (**) Napisaæ program rozwi¹zuj¹cy metod¹ przeszukiwania si³owego problem tzw. Nkrólowych tzn. takiego sposobu ustawienia N królowych na szachownicy o boku N, aby siê wzajemnie nie szachowa³y.
+
+
+
+
+
+Zadanie 5.01 Napisaæ 1argumentow¹ funkcjê, której argumentem jest ³añcuch znaków s. Funkcja ma usuwaæ wszystkie spacje z ³añcucha s. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.02 Napisaæ 1argumentow¹ funkcjê, której argumentem jest ³añcuch znaków s. Funkcja ma zwracaæ liczbe wyst¹pieñ litery 'a' w ³añcuchu s. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.03 Napisaæ 1argumentow¹ funkcjê, której argumentem jest ³añcuch znaków s. Przyjmuj¹c, ¿e zmienna s zawiera prawid³owy PESEL, wyœwietliæ zawart¹ w nim datê urodzenia w formacie DD/MM/RR. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.04 Napisaæ 1argumentow¹ funkcjê, której argumentem jest ³añcuch znaków s. Funkcja ma zamieniaæ wszystkie ma³e litery w s na wielkie litery. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.05 Napisaæ 1argumentow¹ funkcjê, której argumentem jest ³añcuch znaków s. Funkcja ma wyœwietlaæ tekst z s w taki sposób, aby miêdzy ka¿dymi dwoma znakami by³ znak podkreœlenia (np. ALA A_L_A). Napisaæ program demonstruj¹cy › dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.06 Napisaæ 1argumentow¹ funkcjê, której argumentem jest ³añcuch znaków s. Funkcja ma wyœwietlaæ tekst z s w taki sposób, aby ka¿da kolejna litera by³a w nowej linii. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.07 Napisaæ 1argumentow¹ funkcjê, której argumentem jest ³añcuch znaków s. Funkcja ma zamieniaæ wszystkie spacje na znak podkreœlenia '_'. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.08 Napisaæ 1argumentow¹ funkcjê, której argumentem jest ³añcuch znaków s. Funkcja ma wyœwietlaæ tekst w taki sposób, aby ka¿dy wyraz by³ w nowej linii. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.09 Napisaæ 1argumentow¹ funkcjê, której argumentem jest ³añcuch znaków s. Funkcja ma zwracaæ z ilu wyrazów sk³ada siê tekst w s. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.10 Napisaæ 1argumentow¹ funkcjê, której argumentem jest ³añcuch znaków s. Funkcja ma wyœwietlaæ tekst z s „od koñca”. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.11 Napisaæ 1argumentow¹ funkcjê, której argumentem jest ³añcuch znaków s. Funkcja ma wczytaæ z klawiatury tekst s1 i zwróciæ 1 je¿eli teksty s i s1 s¹ takie same lub 0 w przeciwnym wypadku. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.12 Napisaæ 1argumentow¹ funkcjê, której argumentem jest ³añcuch znaków s. Funkcja ma zwróciæ 1 je¿eli tekst w s jest palindromem lub 0 je¿eli nie jest. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.13 Napisaæ 1argumentow¹ funkcjê, której argumentem jest ³añcuch znaków s. Funkcja ma zwróciæ 1 je¿eli tekst w s zawiera tylko cyfry lub 0 w przeciwnym wypadku. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.14 Napisaæ 2argumentow¹ funkcjê, której argumentami s¹: ³añcuch znaków s oraz zmienna znakowa c. Funkcja ma zwracaæ liczbê wystapieñ znaku c w ³añcuchu s. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.15 Napisaæ 3argumentow¹ funkcjê, której argumentami s¹: ³añcuch znaków s, oraz dwie zmienne znakowe c1 i c2. Funkcja ma zastêpowaæ w tekœcie s wszystkie wyst¹pienia znaku c1 znakiem c2. Napisaæ program demonstruj¹cy dzia³anie powy¿szej funkcji.
+
+
+Zadanie 5.16 Napisaæ 2argumentow¹ funkcjê, której argumentami s¹ ³añcuchy znaków s1 i s2. Funkcja ma zwracaæ 1 je¿eli ³añcuch s2 jest zawarty w ³añcuchu s1, lub 0 w przeciwnym wypadku.
+
+
+Zadanie 5.17 (*) ZnaleŸæ wszystkie pary liczb 2cyfrowych ‘ab’ i ‘cd’ takich, ¿e rezultat dzia³ania ab/cd * abcd daje wynik bêd¹cy palindromem. Przyk³ad: 11/20 *1120 = 616.
+
+
+Zadanie 5.18 (*) ZnaleŸæ wszystkie 4cyfrowe liczby ca³kowite ‘abcd’ dla których spe³nione jest równanie: (ab+cd)^2=abcd.
+
+
+Zadanie 5.19 (*) ZnaleŸæ wszystkie liczby pierwsze w zakresie 30 do 30000 takie, ¿e zarówno suma, jak i iloczyn ich cyfr s¹ równie¿ liczbami pierwszymi.
+
+
+Zadanie 5.20 (*) ZnaleŸæ wszystkie 3cyfrowe liczby pierwsze, dla których wszystkie permutacje ich cyfr s¹ równie¿ liczbami pierwszymi.
+
+
+Zadanie 5.21 (**) Zmodyfikowaæ implementacjê kalkulatora RPN z zadania 4.17 tak, aby zamiast stosowaæ statyczn¹ tablicê o z góry za³o¿onej wielkoœci, zastosowaæ dynamiczn¹ strukturê danych – stos.
+
+
+Zadanie 5.22 (**) Metoda si³owa rozwi¹zywania problemu Nkrólowych (patrz zadanie 4.19) jest bardzo nieefektywna. Zaproponowaæ wydajniejszy algorytm odrzucaj¹cy grupy z³ych rozwi¹zañ bez koniecznoœci przegl¹dania ich wszystkich.
+
+
+Zadanie 5.23 (**) Napisaæ program analizuj¹cy strategiê rozgrywki w grê „kó³ko i krzy¿yk”. Na podstawie podanego przez u¿ytkownika stanu gry program powinien analizowaæ wszystkie mo¿liwe posuniêcia i okreœlaæ najlepsz¹ strategiê dla ka¿dego z graczy. (UWAGA! Zadania 5.21 – 5.23 mog¹ wymagaæ zastosowania elementu jêzyka, który nie by³ omawiany na zajêciach struktur)
+
+
+Zadanie 6.01 Napisaæ program sk³adaj¹cy siê z dwóch nastêpuj¹cych funkcji:
+1) Funkcja zapisuj¹ca do pliku tekstowego o nazwie ‘dane.txt’ 20 kolejnych liczb ca³kowitych.
+2) Funkcja czytaj¹ca z pliku tekstowego o nazwie ‘dane.txt’ 20 kolejnych liczb ca³kowitych i zwracaj¹ca ich œredni¹.
+
+
+Zadanie 6.02 Napisaæ program sk³adaj¹cy siê z dwóch nastêpuj¹cych funkcji:
+1) Funkcja zapisuj¹ca do pliku binarnego o nazwie ‘dane.dat’ 10 kolejnych potêg liczby 2.
+2) Funkcja czytaj¹ca z pliku binarnego o nazwie ‘dane.dat’ 10 kolejnych liczb ca³kowitych i zwracaj¹ca ich sumê.
+
+
+Zadanie 6.03 Napisaæ program sk³adaj¹cy siê z dwóch nastêpuj¹cych funkcji:
+1) Funkcja zapisuj¹ca do pliku tekstowego o nazwie ‘dane.txt’ 100 kolejnych liczb ca³kowitych.
+2) Funkcja czytaj¹ca z pliku tekstowego o nazwie ‘dane.txt’ co drug¹ liczbê w nim zapisan¹ i obliczaj¹ca ich œredni¹.
+
+
+Zadanie 6.04 Napisaæ program sk³adaj¹cy siê z dwóch nastêpuj¹cych funkcji:
+1) Funkcja zapisuj¹ca do pliku binarnego o nazwie ‘dane.dat’ 50 kolejnych liczb ca³kowitych.
+2) Funkcja zwracaj¹ca ile liczb ca³kowitych zapisanych jest w pliku ‘dane.dat’.
+
+
+Zadanie 6.05 Napisaæ program sk³adaj¹cy siê z dwóch nastêpuj¹cych funkcji:
+1) Funkcja zapisuj¹ca do pliku tekstowego o nazwie ‘dane.txt’ n kolejnych liczb ca³kowitych (n jest argumentem funkcji)
+2) Funkcja wyœwietlaj¹ca wszystkie liczby zapisane w pliku ‘dane.txt’.
+
+
+Zadanie 6.06 Napisaæ program sk³adaj¹cy siê z dwóch nastêpuj¹cych funkcji:
+1) Funkcja zapisuj¹ca do pliku binarnego o nazwie ‘dane.dat’ 10 kolejnych liczb rzeczywistych od 0.001 do 0.10 co 0.001.
+2) Funkcja wyœwietlaj¹ca na ekran wszystkie liczby rzeczywiste zapisane w pliku ‘dane.dat’.
+
+
+Zadanie 6.07 Napisaæ program sk³adaj¹cy siê z dwóch nastêpuj¹cych funkcji:
+1) Funkcja zapisuj¹ca do pliku tekstowego o nazwie ‘dane.txt’ n kolejnych liczb ca³kowitych (n jest argumentem funkcji)
+2) Funkcja wyœwietlaj¹ca najwiêksz¹ i najmniejsz¹ z liczb zapisanych w pliku ‘dane.txt’.
+
+
+Zadanie 6.08 Napisaæ program sk³adaj¹cy siê z dwóch nastêpuj¹cych funkcji:
+1) Funkcja zapisuj¹ca do pliku binarnego o nazwie ‘dane.dat’ 10 liczb ca³kowitych podanych przez u¿ytkownika
+2) Funkcja wyœwietlaj¹ca na ekran œredni¹ z liczb zapisanych w pliku binarnym ‘dane.dat’.
+
+
+Zadanie 6.09 Napisaæ program sk³adaj¹cy siê z dwóch nastêpuj¹cych funkcji:
+1) Funkcja zapisuj¹ca do pliku binarnego o nazwie ‘dane.dat’ 10 pierwszych parzystych liczb ca³kowitych.
+2) Funkcja wyœwietlaj¹ca na ekran liczby ca³kowite z pliku binarnego ‘dane.dat’
+
+
+Zadanie 6.10 Napisaæ program sk³adaj¹cy siê z dwóch nastêpuj¹cych funkcji:
+1) Funkcja zapisuj¹ca do pliku tekstowego o nazwie ‘dane.txt’ 20 kolejnych liczb ca³kowitych.
+2) Funkcja wyœwietlaj¹ca sumy ka¿dych dwóch kolejnych liczb zapisanych w pliku tekstowym ‘dane.txt’.
+
+
+Zadanie 6.11 (*) Napisaæ program „notes z telefonami”. Program powinien przechowywaæ rekordy z nastêpuj¹cymi informacjami: imiê, nazwisko, numer telefonu. Pomiêdzy uruchomieniami programu dane nale¿y przechowywaæ w pliku. Program powinien umo¿liwiaæ dodawanie, usuwanie oraz szukanie rekordów na podstawie nazwiska.
+
+
+Zadanie 6.12 (*) Napisaæ program „katalog ksi¹¿ek”. Program powinien przechowywaæ rekordy z nastêpuj¹cymi informacjami: autor, tytu³. Pomiêdzy uruchomieniami programu dane nale¿y przechowywaæ w pliku. Program powinien umo¿liwiaæ dodawanie, usuwanie oraz szukanie rekordów na podstawie autora lub tytu³u (równie¿ na podstawie fragmentu nazwiska autora lub
+tytu³u ksi¹zki).
+
+
+
+
+
+
+
