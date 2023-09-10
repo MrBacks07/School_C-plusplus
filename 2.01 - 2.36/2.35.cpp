@@ -12,9 +12,7 @@ int main()
     cin >> number;
     
     for (int i = 1; i <= number; i++)
-    {
         counter += i;
-    }
 
     cout << "Dla liczby " << number << " ciag Fibonacciego wynosi " << counter;
     
