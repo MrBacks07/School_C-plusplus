@@ -1,0 +1,4 @@
+
+Imie: Janusz Nazwisko: Kowalski Numer telefonu: 123456789
+Imie: Franek Nazwisko: Nowak Numer telefonu: 987654321
+Imie: Wiktor Nazwisko: Olkowski Numer telefonu: 0000000

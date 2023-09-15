@@ -1,443 +1,443 @@
-Przyk≥ad:
+Przyk≈Çad:
 # Online Python - IDE, Editor, Compiler, Interpreter
 
 print("Program liczaczy wyngrodzenie pracownika")
 iloscGodzin = int(input('podaj ilosc godzin'))
 stawka = int(input('podaj stawke'))
 doWyplaty = iloscGodzin * stawka
-print("Zarobi≥es -",doWyplaty)
+print("Zarobi≈Çes -",doWyplaty)
 
 
-Zadanie 1.01: NapisaÊ program obliczajπcy pole ko≥a o podanym przez uøytkownika promieniu 
-(WzÛr na pole ko≥a P=pi*r*r). Uwaga: WartoúÊ PI (3.1415) naleøy zadeklarowaÊ jako sta≥π.
+Zadanie 1.01: Napisaƒá program obliczajƒÖcy pole ko≈Ça o podanym przez u≈ºytkownika promieniu 
+(Wz√≥r na pole ko≈Ça P=pi*r*r). Uwaga: Warto≈õƒá PI (3.1415) nale≈ºy zadeklarowaƒá jako sta≈ÇƒÖ.
 
 
-Zadanie 1.02: NapisaÊ program obliczajπcy pole prostokπta o podanych przez uøytkownika bokach a i b
+Zadanie 1.02: Napisaƒá program obliczajƒÖcy pole prostokƒÖta o podanych przez u≈ºytkownika bokach a i b
  (P=a*b).
 
 
-Zadanie 1.03: NapisaÊ program obliczajπcy pole trÛjkπta o podanych przez uøytkownika: podstawie (a) 
-i wysokoúci (h). P=0.5*a*h.
+Zadanie 1.03: Napisaƒá program obliczajƒÖcy pole tr√≥jkƒÖta o podanych przez u≈ºytkownika: podstawie (a) 
+i wysoko≈õci (h). P=0.5*a*h.
 
 
-Zadanie 1.04: NapisaÊ program obliczajπcy pole rÛwnoleg≥oboku o podanych przez uøytkownika
- przekπtnych p i q. P=0.5*p*q.
+Zadanie 1.04: Napisaƒá program obliczajƒÖcy pole r√≥wnoleg≈Çoboku o podanych przez u≈ºytkownika
+ przekƒÖtnych p i q. P=0.5*p*q.
 
 
-Zadanie 1.05: NapisaÊ program obliczajπcy pole trapezu o podanych przez uøytkownika d≥ugoúciach podstaw (a i b), oraz wysokoúci (h). P=0.5*(a+b)*h.
+Zadanie 1.05: Napisaƒá program obliczajƒÖcy pole trapezu o podanych przez u≈ºytkownika d≈Çugo≈õciach podstaw (a i b), oraz wysoko≈õci (h). P=0.5*(a+b)*h.
 
 
-Zadanie 1.06: NapisaÊ program obliczajπcy obwÛd ko≥a o podanym przez uøytkownika promieniu r. Ob=2*PI*r. Uwaga: PI naleøy zadeklarowaÊ jako sta≥π.
+Zadanie 1.06: Napisaƒá program obliczajƒÖcy obw√≥d ko≈Ça o podanym przez u≈ºytkownika promieniu r. Ob=2*PI*r. Uwaga: PI nale≈ºy zadeklarowaƒá jako sta≈ÇƒÖ.
 
 
-Zadanie 1.07: NapisaÊ program obliczajπcy obwÛd kwadratu o podanym przez uøytkownika boku a. Ob=4*a.
+Zadanie 1.07: Napisaƒá program obliczajƒÖcy obw√≥d kwadratu o podanym przez u≈ºytkownika boku a. Ob=4*a.
 
 
-Zadanie 1.08: NapisaÊ program obliczajπcy obwÛd prostokπta o podanych przez uøytkownika bokach a i b. Ob=2*a+2*b.
+Zadanie 1.08: Napisaƒá program obliczajƒÖcy obw√≥d prostokƒÖta o podanych przez u≈ºytkownika bokach a i b. Ob=2*a+2*b.
 
 
 
-Zadanie 1.09: NapisaÊ program obliczajπcy obwÛd trapezu o podanych przez uøytkownika bokach a, b, c i d. Ob=a+b+c+d.
+Zadanie 1.09: Napisaƒá program obliczajƒÖcy obw√≥d trapezu o podanych przez u≈ºytkownika bokach a, b, c i d. Ob=a+b+c+d.
 
 
-Zadanie 1.10: NapisaÊ program obliczajπcy pole powierzchni kuli o promieniu r. P=4*PI*r*r. Uwaga: PI naleøy zadeklarowaÊ jako sta≥π.
+Zadanie 1.10: Napisaƒá program obliczajƒÖcy pole powierzchni kuli o promieniu r. P=4*PI*r*r. Uwaga: PI nale≈ºy zadeklarowaƒá jako sta≈ÇƒÖ.
 
 
 
 
 
-Zadanie 2.01: NapisaÊ program tablicujπcy funkcjÍ y=A*x^2+B w przedziale od 0.0 do 1.0 co 0.1 dla podanych przez uøytkownika wartoúci parametrÛw A i B.
+Zadanie 2.01: Napisaƒá program tablicujƒÖcy funkcjƒô y=A*x^2+B w przedziale od 0.0 do 1.0 co 0.1 dla podanych przez u≈ºytkownika warto≈õci parametr√≥w A i B.
 
 
-Zadanie 2.02: NapisaÊ program obliczajπcy sumÍ S=1+2^2+3^2+...+N^2 dla N podanego przez uøytkownika.
+Zadanie 2.02: Napisaƒá program obliczajƒÖcy sumƒô S=1+2^2+3^2+...+N^2 dla N podanego przez u≈ºytkownika.
 
 
-Zadanie 2.03: NapisaÊ program tablicujπcy funkcjÍ y=2.5*x^3-4.8*x^2+1.1 w przedziale podanym przez uøytkownika.
+Zadanie 2.03: Napisaƒá program tablicujƒÖcy funkcjƒô y=2.5*x^3-4.8*x^2+1.1 w przedziale podanym przez u≈ºytkownika.
 
 
-Zadanie 2.04: NapisaÊ program obliczajπcy sumÍ S=S+(1/(2*n-1)) dla n=0 do N (N podane przez uøytkownika).
+Zadanie 2.04: Napisaƒá program obliczajƒÖcy sumƒô S=S+(1/(2*n-1)) dla n=0 do N (N podane przez u≈ºytkownika).
 
 
-Zadanie 2.05: NapisaÊ program tablicujπcy funkcjÍ y=A*x^3-B*x w przedziale 1 do 10 co 0.5 dla podanych przez uøytkownika wartoúci parametrÛw A i B.
+Zadanie 2.05: Napisaƒá program tablicujƒÖcy funkcjƒô y=A*x^3-B*x w przedziale 1 do 10 co 0.5 dla podanych przez u≈ºytkownika warto≈õci parametr√≥w A i B.
 
 
-Zadanie 2.06: NapisaÊ program obliczajπcy sumÍ S=S+(1/(2*n+1)) dla n=0 do N (N podane przez uøytkownika).
+Zadanie 2.06: Napisaƒá program obliczajƒÖcy sumƒô S=S+(1/(2*n+1)) dla n=0 do N (N podane przez u≈ºytkownika).
 
 
-Zadanie 2.07: NapisaÊ program tablicujπcy funkcjÍ y=1.5*x^2-2.2*x+0.4 w przedziale podanym przez uøytkownika.
+Zadanie 2.07: Napisaƒá program tablicujƒÖcy funkcjƒô y=1.5*x^2-2.2*x+0.4 w przedziale podanym przez u≈ºytkownika.
 
 
-Zadanie 2.08: NapisaÊ program obliczajπcy sumÍ S=S+(n/(2*n-1)) dla n=0 do N (N podane przez uøytkownika).
+Zadanie 2.08: Napisaƒá program obliczajƒÖcy sumƒô S=S+(n/(2*n-1)) dla n=0 do N (N podane przez u≈ºytkownika).
 
 
-Zadanie 2.09: NapisaÊ program liczπcy sumÍ S=1+1/2+1/3+...+1/N dla N podanego przez uøytkownika.
+Zadanie 2.09: Napisaƒá program liczƒÖcy sumƒô S=1+1/2+1/3+...+1/N dla N podanego przez u≈ºytkownika.
 
 
-Zadanie 2.10: NapisaÊ program liczπcy silniÍ z liczby podanej przez uøytkownika.
+Zadanie 2.10: Napisaƒá program liczƒÖcy silniƒô z liczby podanej przez u≈ºytkownika.
 
 
-Zadanie 2.11: NapisaÊ program liczπcy sumÍ liczb ca≥kowitych 1+2+3+..+N. Dla N podanego przez uøytkownika.
+Zadanie 2.11: Napisaƒá program liczƒÖcy sumƒô liczb ca≈Çkowitych 1+2+3+..+N. Dla N podanego przez u≈ºytkownika.
 
 
-Zadanie 2.12: NapisaÊ program wyúwietlajπcy kolejne potÍgi liczby 2 tzn. 2^1, 2^2, ..., 2^N, dla N podanego przez uøytkownika.
+Zadanie 2.12: Napisaƒá program wy≈õwietlajƒÖcy kolejne potƒôgi liczby 2 tzn. 2^1, 2^2, ..., 2^N, dla N podanego przez u≈ºytkownika.
 
 
-Zadanie 2.13: NapisaÊ program obliczajπcy sumÍ S=S+(-2)^n dla n=0 do N (N podane przez uøytkownika.
+Zadanie 2.13: Napisaƒá program obliczajƒÖcy sumƒô S=S+(-2)^n dla n=0 do N (N podane przez u≈ºytkownika.
 
 
-Zadanie 2.14: NapisaÊ program wczytujπcy z klawiatury dwie liczby ca≥kowite, a nastepnie wyúwietlajπcy wiÍkszπ z nich.
+Zadanie 2.14: Napisaƒá program wczytujƒÖcy z klawiatury dwie liczby ca≈Çkowite, a nastepnie wy≈õwietlajƒÖcy wiƒôkszƒÖ z nich.
 
 
-Zadanie 2.15: NapisaÊ program wczytujπcy z klawiatury liczbÍ ca≥kowitπ, a nastÍpnie wyúwietlajπcy informacjÍ, czy liczba ta jest wiÍksza od zera, czy nie.
+Zadanie 2.15: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô ca≈ÇkowitƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy informacjƒô, czy liczba ta jest wiƒôksza od zera, czy nie.
 
 
-Zadanie 2.16: NapisaÊ program wczytujπcy z klawiatury liczbÍ ca≥kowitπ, a nastÍpnie wyúwietlajπcy informacjÍ, czy liczba ta jest parzysta, czy nie.
+Zadanie 2.16: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô ca≈ÇkowitƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy informacjƒô, czy liczba ta jest parzysta, czy nie.
 
 
-Zadanie 2.17: NapisaÊ program wczytujπcy z klawiatury liczbÍ ca≥kowitπ, a nastÍpnie wyúwietlajπcy informacjÍ, czy liczba ta jest wiÍksza niø 10.
+Zadanie 2.17: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô ca≈ÇkowitƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy informacjƒô, czy liczba ta jest wiƒôksza ni≈º 10.
 
 
-Zadanie 2.18: NapisaÊ program wczytujπcy z klawiatury liczbÍ rzeczywistπ, a nastÍpnie wyúwietlajπcy informacjÍ, czy liczba ta jest dodatnia.
+Zadanie 2.18: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô rzeczywistƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy informacjƒô, czy liczba ta jest dodatnia.
 
 
-Zadanie 2.19: NapisaÊ program wczytujπcy z klawiatury liczbÍ ca≥kowitπ, a nastÍpnie wyúwietlajπcy informacjÍ, czy liczba ta jest podzielna przez 7.
+Zadanie 2.19: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô ca≈ÇkowitƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy informacjƒô, czy liczba ta jest podzielna przez 7.
 
 
-Zadanie 2.20: NapisaÊ program wczytujπcy z klawiatury dwie liczby ca≥kowite, a nastepnie wyúwietlajπcy mniejszπ z nich.
+Zadanie 2.20: Napisaƒá program wczytujƒÖcy z klawiatury dwie liczby ca≈Çkowite, a nastepnie wy≈õwietlajƒÖcy mniejszƒÖ z nich.
 
 
-Zadanie 2.21: NapisaÊ program wczytujπcy z klawiatury liczbÍ ca≥kowitπ, a nastÍpnie wyúwietlajπcy informacjÍ, czy liczba ta jest wiÍksza niø 33.
+Zadanie 2.21: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô ca≈ÇkowitƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy informacjƒô, czy liczba ta jest wiƒôksza ni≈º 33.
 
 
-Zadanie 2.22: NapisaÊ program wczytujπcy z klawiatury liczbÍ rzeczywistπ, a nastÍpnie wyúwietlajπcy informacjÍ, czy liczba ta jest wiÍksza od zera i jednoczeúnie mniejsza od 100.
+Zadanie 2.22: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô rzeczywistƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy informacjƒô, czy liczba ta jest wiƒôksza od zera i jednocze≈õnie mniejsza od 100.
 
 
-Zadanie 2.23: NapisaÊ program wczytujπcy z klawiatury liczbÍ ca≥kowitπ, a nastÍpnie wyúwietlajπcy informacjÍ, czy liczba ta jest mniejsza od zera, czy nie.
+Zadanie 2.23: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô ca≈ÇkowitƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy informacjƒô, czy liczba ta jest mniejsza od zera, czy nie.
 
 
-Zadanie 2.24: NapisaÊ program wczytujπcy z klawiatury dwie liczby ca≥kowite, a nastepnie wyúwietlajπcy informacjÍ, czy liczby te sπ takie same, czy nie.
+Zadanie 2.24: Napisaƒá program wczytujƒÖcy z klawiatury dwie liczby ca≈Çkowite, a nastepnie wy≈õwietlajƒÖcy informacjƒô, czy liczby te sƒÖ takie same, czy nie.
 
 
-Zadanie 2.25: NapisaÊ program wczytujπcy z klawiatury liczbÍ rzeczywistπ, a nastÍpnie wyúwietlajπcy informacjÍ, czy liczba ta jest wiÍksza od zera i mniejsza od 10.
+Zadanie 2.25: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô rzeczywistƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy informacjƒô, czy liczba ta jest wiƒôksza od zera i mniejsza od 10.
 
 
-Zadanie 2.26: NapisaÊ program wczytujπcy z klawiatury liczbÍ ca≥kowitπ, a nastÍpnie wyúwietlajπcy informacjÍ, czy liczba ta jest wiÍksza od 100 i jednoczeúnie podzielna przez 10.
+Zadanie 2.26: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô ca≈ÇkowitƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy informacjƒô, czy liczba ta jest wiƒôksza od 100 i jednocze≈õnie podzielna przez 10.
 
 
-Zadanie 2.27: NapisaÊ program wczytujπcy z klawiatury liczbÍ ca≥kowitπ, a nastÍpnie wyúwietlajπcy informacjÍ, czy liczba ta jest jednoczeúnie podzielna przez 2 i przez 3.
+Zadanie 2.27: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô ca≈ÇkowitƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy informacjƒô, czy liczba ta jest jednocze≈õnie podzielna przez 2 i przez 3.
 
 
-Zadanie 2.28: NapisaÊ program wczytujπcy z klawiatury liczbÍ ca≥kowitπ, a nastÍpnie wyúwietlajπcy jej wartoúÊ bezwzglÍdnπ.
+Zadanie 2.28: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô ca≈ÇkowitƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy jej warto≈õƒá bezwzglƒôdnƒÖ.
 
 
-Zadanie 2.29: NapisaÊ program wczytujπcy z klawiatury liczbÍ ca≥kowitπ, a nastÍpnie wyúwietlajπcy informacjÍ, czy liczba ta jest mniejsza niø 88.
+Zadanie 2.29: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô ca≈ÇkowitƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy informacjƒô, czy liczba ta jest mniejsza ni≈º 88.
 
-Zadanie 2.30: NapisaÊ program wczytujπcy z klawiatury liczbÍ ca≥kowitπ, a nastÍpnie wyúwietlajπcy 1 jeøeli jest ona wiÍksza od zera, -1 jeøeli jest mniejsza od zera, lub 0 ñ jeøeli jest rÛwna zero.
+Zadanie 2.30: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô ca≈ÇkowitƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy 1 je≈ºeli jest ona wiƒôksza od zera, -1 je≈ºeli jest mniejsza od zera, lub 0 ‚Äì je≈ºeli jest r√≥wna zero.
 
-Zadanie 2.31: NapisaÊ program wczytujπcy z klawiatury liczbÍ ca≥kowitπ, a nastÍpnie wyúwietlajπcy informacjÍ, czy liczba ta jest podzielna przez 3.
+Zadanie 2.31: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô ca≈ÇkowitƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy informacjƒô, czy liczba ta jest podzielna przez 3.
 
-Zadanie 2.32: NapisaÊ program wczytujπcy z klawiatury liczbÍ ca≥kowitπ, a nastÍpnie wyúwietlajπcy informacjÍ, czy liczba ta jest mniejsza niø 15.
+Zadanie 2.32: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô ca≈ÇkowitƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy informacjƒô, czy liczba ta jest mniejsza ni≈º 15.
 
-Zadanie 2.33: NapisaÊ program wczytujπcy z klawiatury liczbÍ rzeczywistπ, a nastÍpnie wyúwietlajπcy jej wartoúÊ bezwzglÍdnπ.
+Zadanie 2.33: Napisaƒá program wczytujƒÖcy z klawiatury liczbƒô rzeczywistƒÖ, a nastƒôpnie wy≈õwietlajƒÖcy jej warto≈õƒá bezwzglƒôdnƒÖ.
 
 
 
-Zadanie 2.34 (*): NapisaÊ program obliczajπcy pierwiastki rÛwnania kwadratowego A*x*x+B*x+C dla A,B,C podanego przez uøytkownika.
+Zadanie 2.34 (*): Napisaƒá program obliczajƒÖcy pierwiastki r√≥wnania kwadratowego A*x*x+B*x+C dla A,B,C podanego przez u≈ºytkownika.
 
-Zadanie 2.35 (*): NapisaÊ program obliczajπcy N-ty element ciπgu Fibonacciego.
+Zadanie 2.35 (*): Napisaƒá program obliczajƒÖcy N-ty element ciƒÖgu Fibonacciego.
 
-Zadanie 2.36 (**): NapisaÊ program znajdujπcy pierwiastek rÛwnania kwadratowego A*x*x+B*x+C metodπ bisekcji ñ uøytkownik podaje wspÛ≥czynniki rÛwnania A,B,C, poczπtkowy przedzia≥ x1,x2 oraz oczekiwanπ dok≥adnoúÊ.
+Zadanie 2.36 (**): Napisaƒá program znajdujƒÖcy pierwiastek r√≥wnania kwadratowego A*x*x+B*x+C metodƒÖ bisekcji ‚Äì u≈ºytkownik podaje wsp√≥≈Çczynniki r√≥wnania A,B,C, poczƒÖtkowy przedzia≈Ç x1,x2 oraz oczekiwanƒÖ dok≈Çadno≈õƒá.
 
 
 
 
-Zadanie 3.01: NapisaÊ program wczytujπcy do tablicy 10 liczb typu integer podanych przez uøytkownika i wyúwietlajπcy ich sredniπ.
+Zadanie 3.01: Napisaƒá program wczytujƒÖcy do tablicy 10 liczb typu integer podanych przez u≈ºytkownika i wy≈õwietlajƒÖcy ich sredniƒÖ.
 
 
-Zadanie 3.02: NapisaÊ program wczytujπcy do tablicy 10 liczb typu integer podanych przez uøytkownika i wyúwietlajπcy najmniejszπ i najwiekszπ z nich.
+Zadanie 3.02: Napisaƒá program wczytujƒÖcy do tablicy 10 liczb typu integer podanych przez u≈ºytkownika i wy≈õwietlajƒÖcy najmniejszƒÖ i najwiekszƒÖ z nich.
 
 
-Zadanie 3.03: NapisaÊ program wczytujπcy do tablicy 10 liczb typu real podanych przez uøytkownika i wyúwietlajπcy ich úredniπ.
+Zadanie 3.03: Napisaƒá program wczytujƒÖcy do tablicy 10 liczb typu real podanych przez u≈ºytkownika i wy≈õwietlajƒÖcy ich ≈õredniƒÖ.
 
 
-Zadanie 3.04: NapisaÊ program wczytujπcy do tablicy 10 liczb typu real podanych przez uøytkownika i wyúwietlajπcy najmniejszπ i najwiekszπ z nich.
+Zadanie 3.04: Napisaƒá program wczytujƒÖcy do tablicy 10 liczb typu real podanych przez u≈ºytkownika i wy≈õwietlajƒÖcy najmniejszƒÖ i najwiekszƒÖ z nich.
 
 
-Zadanie 3.05: NapisaÊ program wczytujπcy do tablicy 10 liczb typu integer podanych przez uøytkownika i wyúwietlajπcy ich sumÍ.
+Zadanie 3.05: Napisaƒá program wczytujƒÖcy do tablicy 10 liczb typu integer podanych przez u≈ºytkownika i wy≈õwietlajƒÖcy ich sumƒô.
 
 
-Zadanie 3.06: NapisaÊ program wczytujπcy do tablicy 10 liczb typu real podanych przez uøytkownika i wyúwietlajπcy ich sumÍ.
+Zadanie 3.06: Napisaƒá program wczytujƒÖcy do tablicy 10 liczb typu real podanych przez u≈ºytkownika i wy≈õwietlajƒÖcy ich sumƒô.
 
 
-Zadanie 3.07: NapisaÊ program ktÛry wype≥nia 10-cio elementowπ tablicÍ typu integer kolejnymi potÍgami liczby 2, a nastÍpnie wyúwietla tπ tablicÍ na ekran.
+Zadanie 3.07: Napisaƒá program kt√≥ry wype≈Çnia 10-cio elementowƒÖ tablicƒô typu integer kolejnymi potƒôgami liczby 2, a nastƒôpnie wy≈õwietla tƒÖ tablicƒô na ekran.
 
 
-Zadanie 3.08: NapisaÊ program wczytujπcy do tablicy 10 liczb typu integer podanych przez uøytkownika, sortujπcy te liczby rosnπco, a nastÍpnie wyúwietlajπcy je na ekran.
+Zadanie 3.08: Napisaƒá program wczytujƒÖcy do tablicy 10 liczb typu integer podanych przez u≈ºytkownika, sortujƒÖcy te liczby rosnƒÖco, a nastƒôpnie wy≈õwietlajƒÖcy je na ekran.
 
 
-Zadanie 3.09: NapisaÊ program wczytujπcy do tablicy 10 liczb typu integer podanych przez uøytkownika, sortujπcy te liczby malejπco, a nastÍpnie wyúwietlajπcy je na ekran.
+Zadanie 3.09: Napisaƒá program wczytujƒÖcy do tablicy 10 liczb typu integer podanych przez u≈ºytkownika, sortujƒÖcy te liczby malejƒÖco, a nastƒôpnie wy≈õwietlajƒÖcy je na ekran.
 
 
-Zadanie 3.10: NapisaÊ program wczytujπcy do tablicy 10 liczb typu integer podanych przez uøytkownika, a nastepnie wyúwietlajπcy ile jest wúrÛd nich liczb parzystych i nieparzystych.
+Zadanie 3.10: Napisaƒá program wczytujƒÖcy do tablicy 10 liczb typu integer podanych przez u≈ºytkownika, a nastepnie wy≈õwietlajƒÖcy ile jest w≈õr√≥d nich liczb parzystych i nieparzystych.
 
 
-Zadanie 3.11: NapisaÊ program wczytujπcy do tablicy 10 liczb typu integer podanych przez uøytkownika, a nastepnie wyúwietlajπcy ile jest wúrÛd nich liczb dodatnich i ujemnych.
+Zadanie 3.11: Napisaƒá program wczytujƒÖcy do tablicy 10 liczb typu integer podanych przez u≈ºytkownika, a nastepnie wy≈õwietlajƒÖcy ile jest w≈õr√≥d nich liczb dodatnich i ujemnych.
 
 
-Zadanie 3.12: NapisaÊ program wczytujπcy do tablicy 10 liczb typu integer podanych przez uøytkownika, a nastÍpnie wyúwietlajπcy je w odwrotnej kolejnoúci.
+Zadanie 3.12: Napisaƒá program wczytujƒÖcy do tablicy 10 liczb typu integer podanych przez u≈ºytkownika, a nastƒôpnie wy≈õwietlajƒÖcy je w odwrotnej kolejno≈õci.
 
 
-Zadanie 3.13: NapisaÊ dwuargumentowπ funkcje ktÛra podnosi argument pierwszy do potÍgi okreúlonej przez argument drugi. Pierwszy argument ma byc typu real, a drugi integer (za≥oøyÊ, øe zawsze bÍdzie wiÍkszy od 0). Funkcja ma zwracaÊ wartoúÊ typu real.
+Zadanie 3.13: Napisaƒá dwuargumentowƒÖ funkcje kt√≥ra podnosi argument pierwszy do potƒôgi okre≈õlonej przez argument drugi. Pierwszy argument ma byc typu real, a drugi integer (za≈Ço≈ºyƒá, ≈ºe zawsze bƒôdzie wiƒôkszy od 0). Funkcja ma zwracaƒá warto≈õƒá typu real.
 
 
-Zadanie 3.14: NapisaÊ dwuargumentowπ funkcje ktÛra zwraca wiÍkszy z podanych argumentÛw. Oba argumenty oraz zwracana wartoúÊ majπ byÊ typu integer.
+Zadanie 3.14: Napisaƒá dwuargumentowƒÖ funkcje kt√≥ra zwraca wiƒôkszy z podanych argument√≥w. Oba argumenty oraz zwracana warto≈õƒá majƒÖ byƒá typu integer.
 
 
-Zadanie 3.15: NapisaÊ dwuargumentowπ funkcje ktÛra zwraca mniejszy z podanych argumentÛw. Oba argumenty oraz zwracana wartoúÊ majπ byÊ typu integer.
+Zadanie 3.15: Napisaƒá dwuargumentowƒÖ funkcje kt√≥ra zwraca mniejszy z podanych argument√≥w. Oba argumenty oraz zwracana warto≈õƒá majƒÖ byƒá typu integer.
 
 
-Zadanie 3.16: NapisaÊ dwuargumentowπ procedurÍ ktÛra zamienia wartoúci dwÛch argumentÛw typu integer, tzn. jeøeli argumentami procedury sπ: x1=A i x2=B, to po jej zakoÒczeniu powinno byÊ x1=B i x2=A.
+Zadanie 3.16: Napisaƒá dwuargumentowƒÖ procedurƒô kt√≥ra zamienia warto≈õci dw√≥ch argument√≥w typu integer, tzn. je≈ºeli argumentami procedury sƒÖ: x1=A i x2=B, to po jej zako≈Ñczeniu powinno byƒá x1=B i x2=A.
 
 
-Zadanie 3.17: NapisaÊ dwuargumentowπ funkcjÍ ktÛrej argumentami sπ: tablica liczb typu integer, oraz liczba typu integer okreúlajπca rozmiar tablicy. Funkcja ma zwracaÊ najwiÍkszπ liczbÍ znalezionπ w tablicy.
+Zadanie 3.17: Napisaƒá dwuargumentowƒÖ funkcjƒô kt√≥rej argumentami sƒÖ: tablica liczb typu integer, oraz liczba typu integer okre≈õlajƒÖca rozmiar tablicy. Funkcja ma zwracaƒá najwiƒôkszƒÖ liczbƒô znalezionƒÖ w tablicy.
 
 
-Zadanie 3.18: NapisaÊ dwuargumentowπ funkcjÍ ktÛrej argumentami sπ: tablica liczb typu integer, oraz liczba typu integer okreúlajπca rozmiar tablicy. Funkcja ma zwracaÊ úredniπ liczb z tablicy.
+Zadanie 3.18: Napisaƒá dwuargumentowƒÖ funkcjƒô kt√≥rej argumentami sƒÖ: tablica liczb typu integer, oraz liczba typu integer okre≈õlajƒÖca rozmiar tablicy. Funkcja ma zwracaƒá ≈õredniƒÖ liczb z tablicy.
 
 
-Zadanie 3.19: NapisaÊ dwuargumentowπ funkcjÍ ktÛrej argumentami sπ: tablica liczb typu integer, oraz liczba typu integer okreúlajπca rozmiar tablicy. Funkcja ma zwracaÊ iloúÊ wystπpieÒ liczby 2 w tablicy.
+Zadanie 3.19: Napisaƒá dwuargumentowƒÖ funkcjƒô kt√≥rej argumentami sƒÖ: tablica liczb typu integer, oraz liczba typu integer okre≈õlajƒÖca rozmiar tablicy. Funkcja ma zwracaƒá ilo≈õƒá wystƒÖpie≈Ñ liczby 2 w tablicy.
 
 
-Zadanie 3.20: NapisaÊ jednoargumentowπ funkcjÍ (argument typu ca≥kowitego) ktÛra zwraca 1 jeøeli argument jest liczbπ pierwszπ, lub 0 gdy nie jest. Uwaga: liczba pierwsza to liczba podzielna tylko przez 1 i samπ siebie.
+Zadanie 3.20: Napisaƒá jednoargumentowƒÖ funkcjƒô (argument typu ca≈Çkowitego) kt√≥ra zwraca 1 je≈ºeli argument jest liczbƒÖ pierwszƒÖ, lub 0 gdy nie jest. Uwaga: liczba pierwsza to liczba podzielna tylko przez 1 i samƒÖ siebie.
 
 
-Zadanie 3.21: NapisaÊ dwuargumentowπ procedurÍ ktÛrej argumentami sπ: tablica liczb typu integer, oraz liczba typu integer okreúlajπca rozmiar tablicy. Procedura ma sortowaÊ tablicÍ malejπco.
+Zadanie 3.21: Napisaƒá dwuargumentowƒÖ procedurƒô kt√≥rej argumentami sƒÖ: tablica liczb typu integer, oraz liczba typu integer okre≈õlajƒÖca rozmiar tablicy. Procedura ma sortowaƒá tablicƒô malejƒÖco.
 
 
-Zadanie 3.22: NapisaÊ funkcjÍ obliczajπcπ rozwiπzania rÛwnania kwadratowego Ax2+Bx+C=0. Argumentami funkcji (typ real) sπ wspÛ≥czynniki rÛwnania (A, B, C), oraz zmienne x1 i x2 poprzez ktÛre funkcja zwraca policzone rozwiπzania. Dodatkowo funkcja powinna zwracaÊ liczbÍ znalezionych rozwiπzaÒ (typ ca≥kowity). Uwaga: Aby znaleüÊ rozwiπzania rÛwnania kwadratowego naleøy najpierw obliczyÊ deltÍ=B2-4AC. Jeøeli delta > 0 to x1=(-b-sqrt(delta))/2a, x2=(-b+sqrt(delta))/2a. Jeøeli delta=0 to x1=x2=-b/2a. Jeøeli delta < 0 to rÛwnanie nie ma rozwiπzaÒ.
+Zadanie 3.22: Napisaƒá funkcjƒô obliczajƒÖcƒÖ rozwiƒÖzania r√≥wnania kwadratowego Ax2+Bx+C=0. Argumentami funkcji (typ real) sƒÖ wsp√≥≈Çczynniki r√≥wnania (A, B, C), oraz zmienne x1 i x2 poprzez kt√≥re funkcja zwraca policzone rozwiƒÖzania. Dodatkowo funkcja powinna zwracaƒá liczbƒô znalezionych rozwiƒÖza≈Ñ (typ ca≈Çkowity). Uwaga: Aby znale≈∫ƒá rozwiƒÖzania r√≥wnania kwadratowego nale≈ºy najpierw obliczyƒá deltƒô=B2-4AC. Je≈ºeli delta > 0 to x1=(-b-sqrt(delta))/2a, x2=(-b+sqrt(delta))/2a. Je≈ºeli delta=0 to x1=x2=-b/2a. Je≈ºeli delta < 0 to r√≥wnanie nie ma rozwiƒÖza≈Ñ.
 
 
-Zadanie 3.23: NapisaÊ dwuargumentowπ funkcjÍ (argumenty x,y oraz zwracana wartoúÊ sπ typu real) zwracajπcπ d≥ugoúÊ wektora (x,y). D≥ugoúÊ wynosi L=sqrt(x2+y2).
+Zadanie 3.23: Napisaƒá dwuargumentowƒÖ funkcjƒô (argumenty x,y oraz zwracana warto≈õƒá sƒÖ typu real) zwracajƒÖcƒÖ d≈Çugo≈õƒá wektora (x,y). D≈Çugo≈õƒá wynosi L=sqrt(x2+y2).
 
 
-Zadanie 3.24: NapisaÊ jednoargumentowπ funkcjÍ ktÛrej argumentem jest 3-elementowa tablica typu real. Funkcja ma zwracaÊ d≥ugoúÊ wektora ktÛrego wspÛ≥rzÍdne zapisane sπ w tablicy, tzn. Jeøeli w tablicy sπ liczby A, B i C, to d≥ugoúÊ wektora wynosi L=sqrt(A2+B2+C2).
+Zadanie 3.24: Napisaƒá jednoargumentowƒÖ funkcjƒô kt√≥rej argumentem jest 3-elementowa tablica typu real. Funkcja ma zwracaƒá d≈Çugo≈õƒá wektora kt√≥rego wsp√≥≈Çrzƒôdne zapisane sƒÖ w tablicy, tzn. Je≈ºeli w tablicy sƒÖ liczby A, B i C, to d≈Çugo≈õƒá wektora wynosi L=sqrt(A2+B2+C2).
 
 
-Zadanie 3.25: NapisaÊ 1-argumentowπ funkcjÍ przeliczajπcπ temperaturÍ w skali Fahrenheita na skalÍ Celsjusza wed≥ug wzoru C=(5/9)(F-32). ZarÛwno argument, jak i zwracana wartoúÊ majπ byÊ typu real.
+Zadanie 3.25: Napisaƒá 1-argumentowƒÖ funkcjƒô przeliczajƒÖcƒÖ temperaturƒô w skali Fahrenheita na skalƒô Celsjusza wed≈Çug wzoru C=(5/9)(F-32). Zar√≥wno argument, jak i zwracana warto≈õƒá majƒÖ byƒá typu real.
 
 
-Zadanie 3.26: NapisaÊ dwuargumentowπ procedurÍ ktÛrej argumentami sπ: tablica liczb typu integer, oraz liczba typu integer okreúlajπca rozmiar tablicy. Procedura ma zerowaÊ wszystkie elementy tablicy bÍdπcej argumentem procedury.
+Zadanie 3.26: Napisaƒá dwuargumentowƒÖ procedurƒô kt√≥rej argumentami sƒÖ: tablica liczb typu integer, oraz liczba typu integer okre≈õlajƒÖca rozmiar tablicy. Procedura ma zerowaƒá wszystkie elementy tablicy bƒôdƒÖcej argumentem procedury.
 
 
-Zadanie 3.27: NapisaÊ dwuargumentowπ procedurÍ ktÛrej argumentami sπ: tablica liczb typu integer, oraz liczba typu integer okreúlajπca rozmiar tablicy. Procedura ma wczytywaÊ z klawiatury liczby ca≥kowite i umieszczaÊ je w kolejnych elementach tablicy.
+Zadanie 3.27: Napisaƒá dwuargumentowƒÖ procedurƒô kt√≥rej argumentami sƒÖ: tablica liczb typu integer, oraz liczba typu integer okre≈õlajƒÖca rozmiar tablicy. Procedura ma wczytywaƒá z klawiatury liczby ca≈Çkowite i umieszczaƒá je w kolejnych elementach tablicy.
 
 
-Zadanie 3.28: NapisaÊ dwuargumentowπ procedurÍ ktÛrej argumentami sπ: tablica liczb typu integer, oraz liczba typu integer okreúlajπca rozmiar tablicy. Procedura ma wyúwietlaÊ kolejne elementy tablicy na ekran.
+Zadanie 3.28: Napisaƒá dwuargumentowƒÖ procedurƒô kt√≥rej argumentami sƒÖ: tablica liczb typu integer, oraz liczba typu integer okre≈õlajƒÖca rozmiar tablicy. Procedura ma wy≈õwietlaƒá kolejne elementy tablicy na ekran.
 
 
-Zadanie 3.29: NapisaÊ 3-argumentowπ funkcjÍ ktÛrej argumentami sπ: tablica liczb typu integer (T), liczba typu integer (N) okreúlajπca rozmiar tablicy, oraz jeszcze jedna liczba ca≥kowita (C). Funkcja ma zwracaÊ iloúÊ wystπpieÒ liczby C w tablicy.
+Zadanie 3.29: Napisaƒá 3-argumentowƒÖ funkcjƒô kt√≥rej argumentami sƒÖ: tablica liczb typu integer (T), liczba typu integer (N) okre≈õlajƒÖca rozmiar tablicy, oraz jeszcze jedna liczba ca≈Çkowita (C). Funkcja ma zwracaƒá ilo≈õƒá wystƒÖpie≈Ñ liczby C w tablicy.
 
 
 
-Zadanie 3.30 (*): NapisaÊ program wyszukujπcy liczby pierwsze w zakresie od 1 do 10 000 metodπ sita Eratostenesa.
+Zadanie 3.30 (*): Napisaƒá program wyszukujƒÖcy liczby pierwsze w zakresie od 1 do 10 000 metodƒÖ sita Eratostenesa.
 
 
-Zadanie 3.31 (*): Mamy listÍ 1000 elementÛw (ponumerowanych od 1 do 1000). Wykreúlamy co siÛdmy element (tzn. element nr 7, 14 itd.). Po dojúciu do koÒca listy kontynuujemy od jej poczπtku omijajπc elementy juø wykreúlone. ProcedurÍ prowadzimy aø zostanie 10 ostanich elementÛw. Jakie to elementy? NapisaÊ program rozwiπzujπcy to zadanie.
+Zadanie 3.31 (*): Mamy listƒô 1000 element√≥w (ponumerowanych od 1 do 1000). Wykre≈õlamy co si√≥dmy element (tzn. element nr 7, 14 itd.). Po doj≈õciu do ko≈Ñca listy kontynuujemy od jej poczƒÖtku omijajƒÖc elementy ju≈º wykre≈õlone. Procedurƒô prowadzimy a≈º zostanie 10 ostanich element√≥w. Jakie to elementy? Napisaƒá program rozwiƒÖzujƒÖcy to zadanie.
 
 
-Zadanie 3.32 (*): Za≥Ûømy, øe uøytkownik zdefiniowa≥ dowolnπ funkcjÍ jednej zmiennej (zadeklarowanπ jako double f(double x) ). NapisaÊ program liczπcy ca≥kÍ oznaczonπ tej funkcji w przedziale podanym przez uøytkownika metodπ trapezÛw.
+Zadanie 3.32 (*): Za≈Ç√≥≈ºmy, ≈ºe u≈ºytkownik zdefiniowa≈Ç dowolnƒÖ funkcjƒô jednej zmiennej (zadeklarowanƒÖ jako double f(double x) ). Napisaƒá program liczƒÖcy ca≈Çkƒô oznaczonƒÖ tej funkcji w przedziale podanym przez u≈ºytkownika metodƒÖ trapez√≥w.
 
 
-Zadanie 3.33 (**) UWAGA!! Zadanie dla bardzo odwaønych!: Na bezludnej wyspie mieszkajπ tylko dwa gatunki zwierzπt ñ lisy i zajπce. Liczby zwierzπt obu gatunkÛw sπ od siebie zalezne i pozostajπ w rÛwnowadze. Np. zwiekszenie liczby zajÍcy powoduje, øe lisy majπ wiÍcej poøywienia i szybciej siÍ mnoøπ. WiÍcej lisÛw zjada zajπce, ktÛrych liczba maleje ñ tym samym powodujπc zmniejszenie iloúci poøywienia i spadek populacji lisÛw. Zachowanie takiego uk≥adu opisujπ tzw. rÛwnania rÛøniczkowe Lotki-Volterry (http://www.personal.psu.edu/auk183/LotkaVolterra/LotkaVolterra1.html). NapisaÊ program symulujπcy zachowanie siÍ populacji lisÛw i zajÍcy dla podanych przez uøytkownika warunkÛw poczπtkowych. ZastosowaÊ dowolny algorytm rozwiπzywania rÛwnaÒ rÛøniczkowych.
+Zadanie 3.33 (**) UWAGA!! Zadanie dla bardzo odwa≈ºnych!: Na bezludnej wyspie mieszkajƒÖ tylko dwa gatunki zwierzƒÖt ‚Äì lisy i zajƒÖce. Liczby zwierzƒÖt obu gatunk√≥w sƒÖ od siebie zalezne i pozostajƒÖ w r√≥wnowadze. Np. zwiekszenie liczby zajƒôcy powoduje, ≈ºe lisy majƒÖ wiƒôcej po≈ºywienia i szybciej siƒô mno≈ºƒÖ. Wiƒôcej lis√≥w zjada zajƒÖce, kt√≥rych liczba maleje ‚Äì tym samym powodujƒÖc zmniejszenie ilo≈õci po≈ºywienia i spadek populacji lis√≥w. Zachowanie takiego uk≈Çadu opisujƒÖ tzw. r√≥wnania r√≥≈ºniczkowe Lotki-Volterry (http://www.personal.psu.edu/auk183/LotkaVolterra/LotkaVolterra1.html). Napisaƒá program symulujƒÖcy zachowanie siƒô populacji lis√≥w i zajƒôcy dla podanych przez u≈ºytkownika warunk√≥w poczƒÖtkowych. Zastosowaƒá dowolny algorytm rozwiƒÖzywania r√≥wna≈Ñ r√≥≈ºniczkowych.
 
 
 
 
 
-Zadanie 4.01 NapisaÊ 2argumentowπ funkcjÍ, ktÛrej argumentami jest tablica liczb ca≥kowitych, oraz liczba ca≥kowita okreúlajπca rozmiar tablicy. Funkcja ma zwracaÊ sumÍ elementÛw w tablicy. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.01 Napisaƒá 2argumentowƒÖ funkcjƒô, kt√≥rej argumentami jest tablica liczb ca≈Çkowitych, oraz liczba ca≈Çkowita okre≈õlajƒÖca rozmiar tablicy. Funkcja ma zwracaƒá sumƒô element√≥w w tablicy. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.02 NapisaÊ 2argumentowπ funkcjÍ, ktÛrej argumentami jest tablica liczb ca≥kowitych, oraz liczba ca≥kowita okreúlajπca rozmiar tablicy. Funkcja ma zwracaÊ najwiÍkszy element w tablicy. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.02 Napisaƒá 2argumentowƒÖ funkcjƒô, kt√≥rej argumentami jest tablica liczb ca≈Çkowitych, oraz liczba ca≈Çkowita okre≈õlajƒÖca rozmiar tablicy. Funkcja ma zwracaƒá najwiƒôkszy element w tablicy. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.03 NapisaÊ 2argumentowπ funkcjÍ, ktÛrej argumentami jest tablica liczb ca≥kowitych, oraz liczba ca≥kowita okreúlajπca rozmiar tablicy. Funkcja ma zwracaÊ iloúÊ wystπpieÒ liczby 0 w tablicy. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.03 Napisaƒá 2argumentowƒÖ funkcjƒô, kt√≥rej argumentami jest tablica liczb ca≈Çkowitych, oraz liczba ca≈Çkowita okre≈õlajƒÖca rozmiar tablicy. Funkcja ma zwracaƒá ilo≈õƒá wystƒÖpie≈Ñ liczby 0 w tablicy. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.04 NapisaÊ 3argumentowπ funkcjÍ, ktÛrej argumentami jest tablica liczb ca≥kowitych, liczba ca≥kowita okreúlajπca rozmiar tablicy, oraz liczba ca≥kowita x. Funkcja ma zwracaÊ iloúÊ wystπpieÒ liczby x w tablicy. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.04 Napisaƒá 3argumentowƒÖ funkcjƒô, kt√≥rej argumentami jest tablica liczb ca≈Çkowitych, liczba ca≈Çkowita okre≈õlajƒÖca rozmiar tablicy, oraz liczba ca≈Çkowita x. Funkcja ma zwracaƒá ilo≈õƒá wystƒÖpie≈Ñ liczby x w tablicy. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.05 NapisaÊ 2argumentowπ funkcjÍ, ktÛrej argumentami jest tablica liczb ca≥kowitych, oraz liczba ca≥kowita okreúlajπca rozmiar tablicy. Funkcja ma wype≥niaÊ tablicÍ kolejnymi potÍgami liczby 2. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.05 Napisaƒá 2argumentowƒÖ funkcjƒô, kt√≥rej argumentami jest tablica liczb ca≈Çkowitych, oraz liczba ca≈Çkowita okre≈õlajƒÖca rozmiar tablicy. Funkcja ma wype≈Çniaƒá tablicƒô kolejnymi potƒôgami liczby 2. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.06 NapisaÊ 2argumentowπ funkcjÍ, ktÛrej argumentami jest tablica liczb ca≥kowitych, oraz liczba ca≥kowita okreúlajπca rozmiar tablicy. Funkcja ma wyúwietlaÊ elementy tablicy w odwrotnej kolejnoúci (Ñod koÒcaî). NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.06 Napisaƒá 2argumentowƒÖ funkcjƒô, kt√≥rej argumentami jest tablica liczb ca≈Çkowitych, oraz liczba ca≈Çkowita okre≈õlajƒÖca rozmiar tablicy. Funkcja ma wy≈õwietlaƒá elementy tablicy w odwrotnej kolejno≈õci (‚Äûod ko≈Ñca‚Äù). Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.07 NapisaÊ 2argumentowπ funkcjÍ, ktÛrej argumentami jest tablica liczb ca≥kowitych, oraz liczba ca≥kowita okreúlajπca rozmiar tablicy. Funkcja ma wype≥niaÊ tablicÍ kolejnymi liczbami parzystymi. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.07 Napisaƒá 2argumentowƒÖ funkcjƒô, kt√≥rej argumentami jest tablica liczb ca≈Çkowitych, oraz liczba ca≈Çkowita okre≈õlajƒÖca rozmiar tablicy. Funkcja ma wype≈Çniaƒá tablicƒô kolejnymi liczbami parzystymi. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.08 NapisaÊ 2argumentowπ funkcjÍ, ktÛrej argumentami jest tablica liczb ca≥kowitych, oraz liczba ca≥kowita okreúlajπca rozmiar tablicy. Funkcja ma zerowaÊ wszystkie elementy tablicy. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.08 Napisaƒá 2argumentowƒÖ funkcjƒô, kt√≥rej argumentami jest tablica liczb ca≈Çkowitych, oraz liczba ca≈Çkowita okre≈õlajƒÖca rozmiar tablicy. Funkcja ma zerowaƒá wszystkie elementy tablicy. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.09 NapisaÊ 2argumentowπ funkcjÍ, ktÛrej argumentami jest tablica liczb ca≥kowitych, oraz liczba ca≥kowita n okreúlajπca rozmiar tablicy. Funkcja ma pobieraÊ od uøytkownika (z klawiatury) n liczb ca≥kowitych i umieúciÊ je w kolejnych komÛrkach tablicy. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.09 Napisaƒá 2argumentowƒÖ funkcjƒô, kt√≥rej argumentami jest tablica liczb ca≈Çkowitych, oraz liczba ca≈Çkowita n okre≈õlajƒÖca rozmiar tablicy. Funkcja ma pobieraƒá od u≈ºytkownika (z klawiatury) n liczb ca≈Çkowitych i umie≈õciƒá je w kolejnych kom√≥rkach tablicy. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.10 NapisaÊ 2argumentowπ funkcjÍ, ktÛrej argumentami jest tablica liczb ca≥kowitych, oraz liczba ca≥kowita okreúlajπca rozmiar tablicy. Funkcja ma zwracaÊ úredniπ liczb z tablicy. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.10 Napisaƒá 2argumentowƒÖ funkcjƒô, kt√≥rej argumentami jest tablica liczb ca≈Çkowitych, oraz liczba ca≈Çkowita okre≈õlajƒÖca rozmiar tablicy. Funkcja ma zwracaƒá ≈õredniƒÖ liczb z tablicy. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.11 NapisaÊ 4argumentowπ funkcjÍ, ktÛrej argumentami sπ trzy tablice liczb ca≥kowitych reprezentujπce wektory a,b, c, oraz liczba n okreúlajπca rozmiar wektorÛw. Funkcja ma realizowaÊ dodawanie wektorÛw a i b a wynik umieúciÊ w wektorze c (sumÍ wektorÛw oblicza siÍ wed≥ug zasady: ity element sumy jest sumπ itych elementÛw dodawanych wektorÛw). NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.11 Napisaƒá 4argumentowƒÖ funkcjƒô, kt√≥rej argumentami sƒÖ trzy tablice liczb ca≈Çkowitych reprezentujƒÖce wektory a,b, c, oraz liczba n okre≈õlajƒÖca rozmiar wektor√≥w. Funkcja ma realizowaƒá dodawanie wektor√≥w a i b a wynik umie≈õciƒá w wektorze c (sumƒô wektor√≥w oblicza siƒô wed≈Çug zasady: ity element sumy jest sumƒÖ itych element√≥w dodawanych wektor√≥w). Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.12 NapisaÊ 2argumentowπ funkcjÍ, ktÛrej argumentami jest tablica liczb ca≥kowitych, oraz liczba ca≥kowita n okreúlajπca rozmiar tablicy. Funkcja ma odwrÛciÊ kolejnoúÊ elementÛw w tablicy. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.12 Napisaƒá 2argumentowƒÖ funkcjƒô, kt√≥rej argumentami jest tablica liczb ca≈Çkowitych, oraz liczba ca≈Çkowita n okre≈õlajƒÖca rozmiar tablicy. Funkcja ma odwr√≥ciƒá kolejno≈õƒá element√≥w w tablicy. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.13 NapisaÊ 3argumentowπ funkcjÍ, ktÛrej argumentami jest tablica liczb ca≥kowitych, liczba ca≥kowita okreúlajπca rozmiar tablicy, oraz liczba ca≥kowita x. Funkcja ma zwracaÊ pozycjÍ pierwszego wystπpienia liczby x w tablicy. Jeøeli x nie wystÍpuje w tablicy to funkcja ma zwracaÊ 1. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.13 Napisaƒá 3argumentowƒÖ funkcjƒô, kt√≥rej argumentami jest tablica liczb ca≈Çkowitych, liczba ca≈Çkowita okre≈õlajƒÖca rozmiar tablicy, oraz liczba ca≈Çkowita x. Funkcja ma zwracaƒá pozycjƒô pierwszego wystƒÖpienia liczby x w tablicy. Je≈ºeli x nie wystƒôpuje w tablicy to funkcja ma zwracaƒá 1. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.14 NapisaÊ 2argumentowπ funkcje, ktÛrej argumentami sπ tablice a i b reprezentujπce 3wymiarowe wektory. Funkcja ma zwracaÊ iloczyn skalarny wektorÛw a i b. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.14 Napisaƒá 2argumentowƒÖ funkcje, kt√≥rej argumentami sƒÖ tablice a i b reprezentujƒÖce 3wymiarowe wektory. Funkcja ma zwracaƒá iloczyn skalarny wektor√≥w a i b. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.15 NapisaÊ 4argumentowπ funkcjÍ, ktÛrej argumentami sπ: tablica liczb ca≥kowitych a, liczba n okreúlajπca rozmiar tablicy, oraz liczby ca≥kowite x i y. Funkcja ma znaleüÊ w tablicy wszystkie wystπpienia liczby x i zastπpiÊ je liczbπ y. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.15 Napisaƒá 4argumentowƒÖ funkcjƒô, kt√≥rej argumentami sƒÖ: tablica liczb ca≈Çkowitych a, liczba n okre≈õlajƒÖca rozmiar tablicy, oraz liczby ca≈Çkowite x i y. Funkcja ma znale≈∫ƒá w tablicy wszystkie wystƒÖpienia liczby x i zastƒÖpiƒá je liczbƒÖ y. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.16 (*) NapisaÊ 2argumentowπ funkcjÍ, ktÛrej argumentami jest tablica liczb ca≥kowitych, oraz liczba ca≥kowita okreúlajπca rozmiar tablicy. Funkcja ma sortowaÊ rosnπco liczby w tablicy. ProszÍ wykorzystaÊ algorytm sortowania bπbelkowego. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 4.16 (*) Napisaƒá 2argumentowƒÖ funkcjƒô, kt√≥rej argumentami jest tablica liczb ca≈Çkowitych, oraz liczba ca≈Çkowita okre≈õlajƒÖca rozmiar tablicy. Funkcja ma sortowaƒá rosnƒÖco liczby w tablicy. Proszƒô wykorzystaƒá algorytm sortowania bƒÖbelkowego. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 4.17 (*) ZaimplementowaÊ 4dzia≥aniowy kalkulator dzia≥ajπcy w notacji RPN (Odwrotna Notacja Polska). Potrzebny w tej implementacji stos zaimplementowaÊ w postaci tablicy.
+Zadanie 4.17 (*) Zaimplementowaƒá 4dzia≈Çaniowy kalkulator dzia≈ÇajƒÖcy w notacji RPN (Odwrotna Notacja Polska). Potrzebny w tej implementacji stos zaimplementowaƒá w postaci tablicy.
 
 
-Zadanie 4.18 (**) NapisaÊ program szukajπcy kwadratÛw magicznych o zadanym przez uøytkownika boku metodπ przeszukiwania si≥owego (Ñbrute forceî).
+Zadanie 4.18 (**) Napisaƒá program szukajƒÖcy kwadrat√≥w magicznych o zadanym przez u≈ºytkownika boku metodƒÖ przeszukiwania si≈Çowego (‚Äûbrute force‚Äù).
 
 
-Zadanie 4.19 (**) NapisaÊ program rozwiπzujπcy metodπ przeszukiwania si≥owego problem tzw. NkrÛlowych tzn. takiego sposobu ustawienia N krÛlowych na szachownicy o boku N, aby siÍ wzajemnie nie szachowa≥y.
+Zadanie 4.19 (**) Napisaƒá program rozwiƒÖzujƒÖcy metodƒÖ przeszukiwania si≈Çowego problem tzw. Nkr√≥lowych tzn. takiego sposobu ustawienia N kr√≥lowych na szachownicy o boku N, aby siƒô wzajemnie nie szachowa≈Çy.
 
 
 
 
 
-Zadanie 5.01 NapisaÊ 1argumentowπ funkcjÍ, ktÛrej argumentem jest ≥aÒcuch znakÛw s. Funkcja ma usuwaÊ wszystkie spacje z ≥aÒcucha s. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 5.01 Napisaƒá 1argumentowƒÖ funkcjƒô, kt√≥rej argumentem jest ≈Ça≈Ñcuch znak√≥w s. Funkcja ma usuwaƒá wszystkie spacje z ≈Ça≈Ñcucha s. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.02 NapisaÊ 1argumentowπ funkcjÍ, ktÛrej argumentem jest ≥aÒcuch znakÛw s. Funkcja ma zwracaÊ liczbe wystπpieÒ litery 'a' w ≥aÒcuchu s. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 5.02 Napisaƒá 1argumentowƒÖ funkcjƒô, kt√≥rej argumentem jest ≈Ça≈Ñcuch znak√≥w s. Funkcja ma zwracaƒá liczbe wystƒÖpie≈Ñ litery 'a' w ≈Ça≈Ñcuchu s. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.03 NapisaÊ 1argumentowπ funkcjÍ, ktÛrej argumentem jest ≥aÒcuch znakÛw s. Przyjmujπc, øe zmienna s zawiera prawid≥owy PESEL, wyúwietliÊ zawartπ w nim datÍ urodzenia w formacie DD/MM/RR. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 5.03 Napisaƒá 1argumentowƒÖ funkcjƒô, kt√≥rej argumentem jest ≈Ça≈Ñcuch znak√≥w s. PrzyjmujƒÖc, ≈ºe zmienna s zawiera prawid≈Çowy PESEL, wy≈õwietliƒá zawartƒÖ w nim datƒô urodzenia w formacie DD/MM/RR. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.04 NapisaÊ 1argumentowπ funkcjÍ, ktÛrej argumentem jest ≥aÒcuch znakÛw s. Funkcja ma zamieniaÊ wszystkie ma≥e litery w s na wielkie litery. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 5.04 Napisaƒá 1argumentowƒÖ funkcjƒô, kt√≥rej argumentem jest ≈Ça≈Ñcuch znak√≥w s. Funkcja ma zamieniaƒá wszystkie ma≈Çe litery w s na wielkie litery. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.05 NapisaÊ 1argumentowπ funkcjÍ, ktÛrej argumentem jest ≥aÒcuch znakÛw s. Funkcja ma wyúwietlaÊ tekst z s w taki sposÛb, aby miÍdzy kaødymi dwoma znakami by≥ znak podkreúlenia (np. ALA A_L_A). NapisaÊ program demonstrujπcy õ dzia≥anie powyøszej funkcji.
+Zadanie 5.05 Napisaƒá 1argumentowƒÖ funkcjƒô, kt√≥rej argumentem jest ≈Ça≈Ñcuch znak√≥w s. Funkcja ma wy≈õwietlaƒá tekst z s w taki spos√≥b, aby miƒôdzy ka≈ºdymi dwoma znakami by≈Ç znak podkre≈õlenia (np. ALA A_L_A). Napisaƒá program demonstrujƒÖcy ‚Ä∫ dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.06 NapisaÊ 1argumentowπ funkcjÍ, ktÛrej argumentem jest ≥aÒcuch znakÛw s. Funkcja ma wyúwietlaÊ tekst z s w taki sposÛb, aby kaøda kolejna litera by≥a w nowej linii. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 5.06 Napisaƒá 1argumentowƒÖ funkcjƒô, kt√≥rej argumentem jest ≈Ça≈Ñcuch znak√≥w s. Funkcja ma wy≈õwietlaƒá tekst z s w taki spos√≥b, aby ka≈ºda kolejna litera by≈Ça w nowej linii. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.07 NapisaÊ 1argumentowπ funkcjÍ, ktÛrej argumentem jest ≥aÒcuch znakÛw s. Funkcja ma zamieniaÊ wszystkie spacje na znak podkreúlenia '_'. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 5.07 Napisaƒá 1argumentowƒÖ funkcjƒô, kt√≥rej argumentem jest ≈Ça≈Ñcuch znak√≥w s. Funkcja ma zamieniaƒá wszystkie spacje na znak podkre≈õlenia '_'. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.08 NapisaÊ 1argumentowπ funkcjÍ, ktÛrej argumentem jest ≥aÒcuch znakÛw s. Funkcja ma wyúwietlaÊ tekst w taki sposÛb, aby kaødy wyraz by≥ w nowej linii. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 5.08 Napisaƒá 1argumentowƒÖ funkcjƒô, kt√≥rej argumentem jest ≈Ça≈Ñcuch znak√≥w s. Funkcja ma wy≈õwietlaƒá tekst w taki spos√≥b, aby ka≈ºdy wyraz by≈Ç w nowej linii. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.09 NapisaÊ 1argumentowπ funkcjÍ, ktÛrej argumentem jest ≥aÒcuch znakÛw s. Funkcja ma zwracaÊ z ilu wyrazÛw sk≥ada siÍ tekst w s. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 5.09 Napisaƒá 1argumentowƒÖ funkcjƒô, kt√≥rej argumentem jest ≈Ça≈Ñcuch znak√≥w s. Funkcja ma zwracaƒá z ilu wyraz√≥w sk≈Çada siƒô tekst w s. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.10 NapisaÊ 1argumentowπ funkcjÍ, ktÛrej argumentem jest ≥aÒcuch znakÛw s. Funkcja ma wyúwietlaÊ tekst z s Ñod koÒcaî. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 5.10 Napisaƒá 1argumentowƒÖ funkcjƒô, kt√≥rej argumentem jest ≈Ça≈Ñcuch znak√≥w s. Funkcja ma wy≈õwietlaƒá tekst z s ‚Äûod ko≈Ñca‚Äù. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.11 NapisaÊ 1argumentowπ funkcjÍ, ktÛrej argumentem jest ≥aÒcuch znakÛw s. Funkcja ma wczytaÊ z klawiatury tekst s1 i zwrÛciÊ 1 jeøeli teksty s i s1 sπ takie same lub 0 w przeciwnym wypadku. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 5.11 Napisaƒá 1argumentowƒÖ funkcjƒô, kt√≥rej argumentem jest ≈Ça≈Ñcuch znak√≥w s. Funkcja ma wczytaƒá z klawiatury tekst s1 i zwr√≥ciƒá 1 je≈ºeli teksty s i s1 sƒÖ takie same lub 0 w przeciwnym wypadku. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.12 NapisaÊ 1argumentowπ funkcjÍ, ktÛrej argumentem jest ≥aÒcuch znakÛw s. Funkcja ma zwrÛciÊ 1 jeøeli tekst w s jest palindromem lub 0 jeøeli nie jest. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 5.12 Napisaƒá 1argumentowƒÖ funkcjƒô, kt√≥rej argumentem jest ≈Ça≈Ñcuch znak√≥w s. Funkcja ma zwr√≥ciƒá 1 je≈ºeli tekst w s jest palindromem lub 0 je≈ºeli nie jest. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.13 NapisaÊ 1argumentowπ funkcjÍ, ktÛrej argumentem jest ≥aÒcuch znakÛw s. Funkcja ma zwrÛciÊ 1 jeøeli tekst w s zawiera tylko cyfry lub 0 w przeciwnym wypadku. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 5.13 Napisaƒá 1argumentowƒÖ funkcjƒô, kt√≥rej argumentem jest ≈Ça≈Ñcuch znak√≥w s. Funkcja ma zwr√≥ciƒá 1 je≈ºeli tekst w s zawiera tylko cyfry lub 0 w przeciwnym wypadku. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.14 NapisaÊ 2argumentowπ funkcjÍ, ktÛrej argumentami sπ: ≥aÒcuch znakÛw s oraz zmienna znakowa c. Funkcja ma zwracaÊ liczbÍ wystapieÒ znaku c w ≥aÒcuchu s. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 5.14 Napisaƒá 2argumentowƒÖ funkcjƒô, kt√≥rej argumentami sƒÖ: ≈Ça≈Ñcuch znak√≥w s oraz zmienna znakowa c. Funkcja ma zwracaƒá liczbƒô wystapie≈Ñ znaku c w ≈Ça≈Ñcuchu s. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.15 NapisaÊ 3argumentowπ funkcjÍ, ktÛrej argumentami sπ: ≥aÒcuch znakÛw s, oraz dwie zmienne znakowe c1 i c2. Funkcja ma zastÍpowaÊ w tekúcie s wszystkie wystπpienia znaku c1 znakiem c2. NapisaÊ program demonstrujπcy dzia≥anie powyøszej funkcji.
+Zadanie 5.15 Napisaƒá 3argumentowƒÖ funkcjƒô, kt√≥rej argumentami sƒÖ: ≈Ça≈Ñcuch znak√≥w s, oraz dwie zmienne znakowe c1 i c2. Funkcja ma zastƒôpowaƒá w tek≈õcie s wszystkie wystƒÖpienia znaku c1 znakiem c2. Napisaƒá program demonstrujƒÖcy dzia≈Çanie powy≈ºszej funkcji.
 
 
-Zadanie 5.16 NapisaÊ 2argumentowπ funkcjÍ, ktÛrej argumentami sπ ≥aÒcuchy znakÛw s1 i s2. Funkcja ma zwracaÊ 1 jeøeli ≥aÒcuch s2 jest zawarty w ≥aÒcuchu s1, lub 0 w przeciwnym wypadku.
+Zadanie 5.16 Napisaƒá 2argumentowƒÖ funkcjƒô, kt√≥rej argumentami sƒÖ ≈Ça≈Ñcuchy znak√≥w s1 i s2. Funkcja ma zwracaƒá 1 je≈ºeli ≈Ça≈Ñcuch s2 jest zawarty w ≈Ça≈Ñcuchu s1, lub 0 w przeciwnym wypadku.
 
 
-Zadanie 5.17 (*) ZnaleüÊ wszystkie pary liczb 2cyfrowych ëabí i ëcdí takich, øe rezultat dzia≥ania ab/cd * abcd daje wynik bÍdπcy palindromem. Przyk≥ad: 11/20 *1120 = 616.
+Zadanie 5.17 (*) Znale≈∫ƒá wszystkie pary liczb 2cyfrowych ‚Äòab‚Äô i ‚Äòcd‚Äô takich, ≈ºe rezultat dzia≈Çania ab/cd * abcd daje wynik bƒôdƒÖcy palindromem. Przyk≈Çad: 11/20 *1120 = 616.
 
 
-Zadanie 5.18 (*) ZnaleüÊ wszystkie 4cyfrowe liczby ca≥kowite ëabcdí dla ktÛrych spe≥nione jest rÛwnanie: (ab+cd)^2=abcd.
+Zadanie 5.18 (*) Znale≈∫ƒá wszystkie 4cyfrowe liczby ca≈Çkowite ‚Äòabcd‚Äô dla kt√≥rych spe≈Çnione jest r√≥wnanie: (ab+cd)^2=abcd.
 
 
-Zadanie 5.19 (*) ZnaleüÊ wszystkie liczby pierwsze w zakresie 30 do 30000 takie, øe zarÛwno suma, jak i iloczyn ich cyfr sπ rÛwnieø liczbami pierwszymi.
+Zadanie 5.19 (*) Znale≈∫ƒá wszystkie liczby pierwsze w zakresie 30 do 30000 takie, ≈ºe zar√≥wno suma, jak i iloczyn ich cyfr sƒÖ r√≥wnie≈º liczbami pierwszymi.
 
 
-Zadanie 5.20 (*) ZnaleüÊ wszystkie 3cyfrowe liczby pierwsze, dla ktÛrych wszystkie permutacje ich cyfr sπ rÛwnieø liczbami pierwszymi.
+Zadanie 5.20 (*) Znale≈∫ƒá wszystkie 3cyfrowe liczby pierwsze, dla kt√≥rych wszystkie permutacje ich cyfr sƒÖ r√≥wnie≈º liczbami pierwszymi.
 
 
-Zadanie 5.21 (**) ZmodyfikowaÊ implementacjÍ kalkulatora RPN z zadania 4.17 tak, aby zamiast stosowaÊ statycznπ tablicÍ o z gÛry za≥oøonej wielkoúci, zastosowaÊ dynamicznπ strukturÍ danych ñ stos.
+Zadanie 5.21 (**) Zmodyfikowaƒá implementacjƒô kalkulatora RPN z zadania 4.17 tak, aby zamiast stosowaƒá statycznƒÖ tablicƒô o z g√≥ry za≈Ço≈ºonej wielko≈õci, zastosowaƒá dynamicznƒÖ strukturƒô danych ‚Äì stos.
 
 
-Zadanie 5.22 (**) Metoda si≥owa rozwiπzywania problemu NkrÛlowych (patrz zadanie 4.19) jest bardzo nieefektywna. ZaproponowaÊ wydajniejszy algorytm odrzucajπcy grupy z≥ych rozwiπzaÒ bez koniecznoúci przeglπdania ich wszystkich.
+Zadanie 5.22 (**) Metoda si≈Çowa rozwiƒÖzywania problemu Nkr√≥lowych (patrz zadanie 4.19) jest bardzo nieefektywna. Zaproponowaƒá wydajniejszy algorytm odrzucajƒÖcy grupy z≈Çych rozwiƒÖza≈Ñ bez konieczno≈õci przeglƒÖdania ich wszystkich.
 
 
-Zadanie 5.23 (**) NapisaÊ program analizujπcy strategiÍ rozgrywki w grÍ ÑkÛ≥ko i krzyøykî. Na podstawie podanego przez uøytkownika stanu gry program powinien analizowaÊ wszystkie moøliwe posuniÍcia i okreúlaÊ najlepszπ strategiÍ dla kaødego z graczy. (UWAGA! Zadania 5.21 ñ 5.23 mogπ wymagaÊ zastosowania elementu jÍzyka, ktÛry nie by≥ omawiany na zajÍciach struktur)
+Zadanie 5.23 (**) Napisaƒá program analizujƒÖcy strategiƒô rozgrywki w grƒô ‚Äûk√≥≈Çko i krzy≈ºyk‚Äù. Na podstawie podanego przez u≈ºytkownika stanu gry program powinien analizowaƒá wszystkie mo≈ºliwe posuniƒôcia i okre≈õlaƒá najlepszƒÖ strategiƒô dla ka≈ºdego z graczy. (UWAGA! Zadania 5.21 ‚Äì 5.23 mogƒÖ wymagaƒá zastosowania elementu jƒôzyka, kt√≥ry nie by≈Ç omawiany na zajƒôciach struktur)
 
 
-Zadanie 6.01 NapisaÊ program sk≥adajπcy siÍ z dwÛch nastÍpujπcych funkcji:
-1) Funkcja zapisujπca do pliku tekstowego o nazwie ëdane.txtí 20 kolejnych liczb ca≥kowitych.
-2) Funkcja czytajπca z pliku tekstowego o nazwie ëdane.txtí 20 kolejnych liczb ca≥kowitych i zwracajπca ich úredniπ.
+Zadanie 6.01 Napisaƒá program sk≈ÇadajƒÖcy siƒô z dw√≥ch nastƒôpujƒÖcych funkcji:
+1) Funkcja zapisujƒÖca do pliku tekstowego o nazwie ‚Äòdane.txt‚Äô 20 kolejnych liczb ca≈Çkowitych.
+2) Funkcja czytajƒÖca z pliku tekstowego o nazwie ‚Äòdane.txt‚Äô 20 kolejnych liczb ca≈Çkowitych i zwracajƒÖca ich ≈õredniƒÖ.
 
 
-Zadanie 6.02 NapisaÊ program sk≥adajπcy siÍ z dwÛch nastÍpujπcych funkcji:
-1) Funkcja zapisujπca do pliku binarnego o nazwie ëdane.datí 10 kolejnych potÍg liczby 2.
-2) Funkcja czytajπca z pliku binarnego o nazwie ëdane.datí 10 kolejnych liczb ca≥kowitych i zwracajπca ich sumÍ.
+Zadanie 6.02 Napisaƒá program sk≈ÇadajƒÖcy siƒô z dw√≥ch nastƒôpujƒÖcych funkcji:
+1) Funkcja zapisujƒÖca do pliku binarnego o nazwie ‚Äòdane.dat‚Äô 10 kolejnych potƒôg liczby 2.
+2) Funkcja czytajƒÖca z pliku binarnego o nazwie ‚Äòdane.dat‚Äô 10 kolejnych liczb ca≈Çkowitych i zwracajƒÖca ich sumƒô.
 
 
-Zadanie 6.03 NapisaÊ program sk≥adajπcy siÍ z dwÛch nastÍpujπcych funkcji:
-1) Funkcja zapisujπca do pliku tekstowego o nazwie ëdane.txtí 100 kolejnych liczb ca≥kowitych.
-2) Funkcja czytajπca z pliku tekstowego o nazwie ëdane.txtí co drugπ liczbÍ w nim zapisanπ i obliczajπca ich úredniπ.
+Zadanie 6.03 Napisaƒá program sk≈ÇadajƒÖcy siƒô z dw√≥ch nastƒôpujƒÖcych funkcji:
+1) Funkcja zapisujƒÖca do pliku tekstowego o nazwie ‚Äòdane.txt‚Äô 100 kolejnych liczb ca≈Çkowitych.
+2) Funkcja czytajƒÖca z pliku tekstowego o nazwie ‚Äòdane.txt‚Äô co drugƒÖ liczbƒô w nim zapisanƒÖ i obliczajƒÖca ich ≈õredniƒÖ.
 
 
-Zadanie 6.04 NapisaÊ program sk≥adajπcy siÍ z dwÛch nastÍpujπcych funkcji:
-1) Funkcja zapisujπca do pliku binarnego o nazwie ëdane.datí 50 kolejnych liczb ca≥kowitych.
-2) Funkcja zwracajπca ile liczb ca≥kowitych zapisanych jest w pliku ëdane.datí.
+Zadanie 6.04 Napisaƒá program sk≈ÇadajƒÖcy siƒô z dw√≥ch nastƒôpujƒÖcych funkcji:
+1) Funkcja zapisujƒÖca do pliku binarnego o nazwie ‚Äòdane.dat‚Äô 50 kolejnych liczb ca≈Çkowitych.
+2) Funkcja zwracajƒÖca ile liczb ca≈Çkowitych zapisanych jest w pliku ‚Äòdane.dat‚Äô.
 
 
-Zadanie 6.05 NapisaÊ program sk≥adajπcy siÍ z dwÛch nastÍpujπcych funkcji:
-1) Funkcja zapisujπca do pliku tekstowego o nazwie ëdane.txtí n kolejnych liczb ca≥kowitych (n jest argumentem funkcji)
-2) Funkcja wyúwietlajπca wszystkie liczby zapisane w pliku ëdane.txtí.
+Zadanie 6.05 Napisaƒá program sk≈ÇadajƒÖcy siƒô z dw√≥ch nastƒôpujƒÖcych funkcji:
+1) Funkcja zapisujƒÖca do pliku tekstowego o nazwie ‚Äòdane.txt‚Äô n kolejnych liczb ca≈Çkowitych (n jest argumentem funkcji)
+2) Funkcja wy≈õwietlajƒÖca wszystkie liczby zapisane w pliku ‚Äòdane.txt‚Äô.
 
 
-Zadanie 6.06 NapisaÊ program sk≥adajπcy siÍ z dwÛch nastÍpujπcych funkcji:
-1) Funkcja zapisujπca do pliku binarnego o nazwie ëdane.datí 10 kolejnych liczb rzeczywistych od 0.001 do 0.10 co 0.001.
-2) Funkcja wyúwietlajπca na ekran wszystkie liczby rzeczywiste zapisane w pliku ëdane.datí.
+Zadanie 6.06 Napisaƒá program sk≈ÇadajƒÖcy siƒô z dw√≥ch nastƒôpujƒÖcych funkcji:
+1) Funkcja zapisujƒÖca do pliku binarnego o nazwie ‚Äòdane.dat‚Äô 10 kolejnych liczb rzeczywistych od 0.001 do 0.10 co 0.001.
+2) Funkcja wy≈õwietlajƒÖca na ekran wszystkie liczby rzeczywiste zapisane w pliku ‚Äòdane.dat‚Äô.
 
 
-Zadanie 6.07 NapisaÊ program sk≥adajπcy siÍ z dwÛch nastÍpujπcych funkcji:
-1) Funkcja zapisujπca do pliku tekstowego o nazwie ëdane.txtí n kolejnych liczb ca≥kowitych (n jest argumentem funkcji)
-2) Funkcja wyúwietlajπca najwiÍkszπ i najmniejszπ z liczb zapisanych w pliku ëdane.txtí.
+Zadanie 6.07 Napisaƒá program sk≈ÇadajƒÖcy siƒô z dw√≥ch nastƒôpujƒÖcych funkcji:
+1) Funkcja zapisujƒÖca do pliku tekstowego o nazwie ‚Äòdane.txt‚Äô n kolejnych liczb ca≈Çkowitych (n jest argumentem funkcji)
+2) Funkcja wy≈õwietlajƒÖca najwiƒôkszƒÖ i najmniejszƒÖ z liczb zapisanych w pliku ‚Äòdane.txt‚Äô.
 
 
-Zadanie 6.08 NapisaÊ program sk≥adajπcy siÍ z dwÛch nastÍpujπcych funkcji:
-1) Funkcja zapisujπca do pliku binarnego o nazwie ëdane.datí 10 liczb ca≥kowitych podanych przez uøytkownika
-2) Funkcja wyúwietlajπca na ekran úredniπ z liczb zapisanych w pliku binarnym ëdane.datí.
+Zadanie 6.08 Napisaƒá program sk≈ÇadajƒÖcy siƒô z dw√≥ch nastƒôpujƒÖcych funkcji:
+1) Funkcja zapisujƒÖca do pliku binarnego o nazwie ‚Äòdane.dat‚Äô 10 liczb ca≈Çkowitych podanych przez u≈ºytkownika
+2) Funkcja wy≈õwietlajƒÖca na ekran ≈õredniƒÖ z liczb zapisanych w pliku binarnym ‚Äòdane.dat‚Äô.
 
 
-Zadanie 6.09 NapisaÊ program sk≥adajπcy siÍ z dwÛch nastÍpujπcych funkcji:
-1) Funkcja zapisujπca do pliku binarnego o nazwie ëdane.datí 10 pierwszych parzystych liczb ca≥kowitych.
-2) Funkcja wyúwietlajπca na ekran liczby ca≥kowite z pliku binarnego ëdane.datí
+Zadanie 6.09 Napisaƒá program sk≈ÇadajƒÖcy siƒô z dw√≥ch nastƒôpujƒÖcych funkcji:
+1) Funkcja zapisujƒÖca do pliku binarnego o nazwie ‚Äòdane.dat‚Äô 10 pierwszych parzystych liczb ca≈Çkowitych.
+2) Funkcja wy≈õwietlajƒÖca na ekran liczby ca≈Çkowite z pliku binarnego ‚Äòdane.dat‚Äô
 
 
-Zadanie 6.10 NapisaÊ program sk≥adajπcy siÍ z dwÛch nastÍpujπcych funkcji:
-1) Funkcja zapisujπca do pliku tekstowego o nazwie ëdane.txtí 20 kolejnych liczb ca≥kowitych.
-2) Funkcja wyúwietlajπca sumy kaødych dwÛch kolejnych liczb zapisanych w pliku tekstowym ëdane.txtí.
+Zadanie 6.10 Napisaƒá program sk≈ÇadajƒÖcy siƒô z dw√≥ch nastƒôpujƒÖcych funkcji:
+1) Funkcja zapisujƒÖca do pliku tekstowego o nazwie ‚Äòdane.txt‚Äô 20 kolejnych liczb ca≈Çkowitych.
+2) Funkcja wy≈õwietlajƒÖca sumy ka≈ºdych dw√≥ch kolejnych liczb zapisanych w pliku tekstowym ‚Äòdane.txt‚Äô.
 
 
-Zadanie 6.11 (*) NapisaÊ program Ñnotes z telefonamiî. Program powinien przechowywaÊ rekordy z nastÍpujπcymi informacjami: imiÍ, nazwisko, numer telefonu. PomiÍdzy uruchomieniami programu dane naleøy przechowywaÊ w pliku. Program powinien umoøliwiaÊ dodawanie, usuwanie oraz szukanie rekordÛw na podstawie nazwiska.
+Zadanie 6.11 (*) Napisaƒá program ‚Äûnotes z telefonami‚Äù. Program powinien przechowywaƒá rekordy z nastƒôpujƒÖcymi informacjami: imiƒô, nazwisko, numer telefonu. Pomiƒôdzy uruchomieniami programu dane nale≈ºy przechowywaƒá w pliku. Program powinien umo≈ºliwiaƒá dodawanie, usuwanie oraz szukanie rekord√≥w na podstawie nazwiska.
 
 
-Zadanie 6.12 (*) NapisaÊ program Ñkatalog ksiπøekî. Program powinien przechowywaÊ rekordy z nastÍpujπcymi informacjami: autor, tytu≥. PomiÍdzy uruchomieniami programu dane naleøy przechowywaÊ w pliku. Program powinien umoøliwiaÊ dodawanie, usuwanie oraz szukanie rekordÛw na podstawie autora lub tytu≥u (rÛwnieø na podstawie fragmentu nazwiska autora lub
-tytu≥u ksiπzki).
+Zadanie 6.12 (*) Napisaƒá program ‚Äûkatalog ksiƒÖ≈ºek‚Äù. Program powinien przechowywaƒá rekordy z nastƒôpujƒÖcymi informacjami: autor, tytu≈Ç. Pomiƒôdzy uruchomieniami programu dane nale≈ºy przechowywaƒá w pliku. Program powinien umo≈ºliwiaƒá dodawanie, usuwanie oraz szukanie rekord√≥w na podstawie autora lub tytu≈Çu (r√≥wnie≈º na podstawie fragmentu nazwiska autora lub
+tytu≈Çu ksiƒÖzki).
 
 
 
